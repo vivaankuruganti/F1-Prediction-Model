@@ -1,0 +1,12 @@
+team,engine_supplier,base_race_pace,base_quali_pace,drag_efficiency,downforce_quality,weight_readiness,upgrade_potential,strategy_quality,reliability_base,pit_stop_quality
+McLaren,Mercedes,0.9,0.92,0.9,0.88,0.9,0.86,0.9,0.9,0.94
+Ferrari,Ferrari,0.98,0.94,0.98,0.97,1,0.98,0.86,0.97,0.98
+Mercedes,Mercedes,1,1,0.92,0.95,1,0.92,0.98,0.97,0.97
+Red Bull Racing,Red Bull Ford,0.85,0.84,0.84,0.84,0.78,0.92,0.92,0.78,0.93
+Aston Martin,Honda,0.64,0.63,0.64,0.66,0.62,0.78,0.89,0.88,0.92
+Audi,Audi,0.82,0.82,0.8,0.81,0.81,0.9,0.92,0.88,0.88
+Williams,Mercedes,0.8,0.79,0.82,0.79,0.6,0.85,0.89,0.88,0.89
+Haas,Ferrari,0.84,0.85,0.82,0.84,1,0.88,0.89,0.93,0.89
+Racing Bulls,Red Bull Ford,0.82,0.8,0.84,0.79,0.8,0.78,0.88,0.84,0.88
+Alpine,Mercedes,0.85,0.84,0.84,0.88,0.86,0.86,0.89,0.86,0.86
+Cadillac,Ferrari,0.66,0.69,0.74,0.73,0.72,0.83,0.9,0.8,0.92

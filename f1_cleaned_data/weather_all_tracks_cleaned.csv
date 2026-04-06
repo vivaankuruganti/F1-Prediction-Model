@@ -1,0 +1,23 @@
+track,temp,rain,wind,avg_temp,rain_flag,track_norm
+Australia,11.2,0.2,19.5,10.904166666666669,1,Australia
+China,27.5,0.0,10.1,28.037500000000005,0,China
+Japan,25.2,0.6,5.9,24.425,1,Japan
+Miami,25.7,0.1,5.1,26.570833333333336,1,Miami
+Canada,23.6,0.0,5.9,22.6375,0,Canada
+Monaco,19.8,0.0,2.9,23.004166666666663,0,Monaco
+Spain,19.0,0.0,5.4,22.037499999999994,0,Spain
+Austria,15.9,0.1,3.8,16.841666666666665,1,Austria
+Silverstone,16.3,0.0,18.7,17.21666666666667,0,Silverstone
+Belgium,14.5,0.0,12.6,15.591666666666669,0,Belgium
+Hungary,18.3,0.0,5.4,23.008333333333336,0,Hungary
+Netherlands,17.3,0.4,34.8,17.554166666666664,1,Netherlands
+Monza,17.5,0.1,6.3,21.620833333333337,1,Monza
+Madrid,20.9,0.0,15.3,25.466666666666665,0,Madrid
+Baku,21.4,0.0,36.1,22.037500000000005,0,Baku
+Singapore,25.2,2.2,10.5,27.729166666666668,1,Singapore
+Austin,34.6,0.0,19.4,30.4375,0,Austin
+Mexico,21.9,0.6,13.7,18.65,1,Mexico
+Brazil,15.0,0.0,7.9,15.891666666666666,0,Brazil
+Las Vegas,39.5,0.0,16.2,34.5875,0,Las Vegas
+Qatar,30.9,0.0,15.8,36.97083333333333,0,Qatar
+Abu Dhabi,29.1,0.0,11.8,34.1375,0,Abu Dhabi

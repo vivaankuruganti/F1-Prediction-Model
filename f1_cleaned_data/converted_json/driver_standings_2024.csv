@@ -1,0 +1,25 @@
+season,round,position,points,wins,driver_id,driver_code,driver_name,constructor_names
+2024,24,1,437,9,max_verstappen,VER,Max Verstappen,Red Bull
+2024,24,2,374,4,norris,NOR,Lando Norris,McLaren
+2024,24,3,356,3,leclerc,LEC,Charles Leclerc,Ferrari
+2024,24,4,292,2,piastri,PIA,Oscar Piastri,McLaren
+2024,24,5,290,2,sainz,SAI,Carlos Sainz,Ferrari
+2024,24,6,245,2,russell,RUS,George Russell,Mercedes
+2024,24,7,223,2,hamilton,HAM,Lewis Hamilton,Mercedes
+2024,24,8,152,0,perez,PER,Sergio Perez,Red Bull
+2024,24,9,70,0,alonso,ALO,Fernando Alonso,Aston Martin
+2024,24,10,42,0,gasly,GAS,Pierre Gasly,Alpine F1 Team
+2024,24,11,41,0,hulkenberg,HUL,Nico Hulkenberg,Haas F1 Team
+2024,24,12,30,0,tsunoda,TSU,Yuki Tsunoda,RB F1 Team
+2024,24,13,24,0,stroll,STR,Lance Stroll,Aston Martin
+2024,24,14,23,0,ocon,OCO,Esteban Ocon,Alpine F1 Team
+2024,24,15,16,0,kevin_magnussen,MAG,Kevin Magnussen,Haas F1 Team
+2024,24,16,12,0,albon,ALB,Alexander Albon,Williams
+2024,24,17,12,0,ricciardo,RIC,Daniel Ricciardo,RB F1 Team
+2024,24,18,7,0,bearman,BEA,Oliver Bearman,Ferrari | Haas F1 Team
+2024,24,19,5,0,colapinto,COL,Franco Colapinto,Williams
+2024,24,20,4,0,zhou,ZHO,Guanyu Zhou,Sauber
+2024,24,21,4,0,lawson,LAW,Liam Lawson,RB F1 Team
+2024,24,22,0,0,bottas,BOT,Valtteri Bottas,Sauber
+2024,24,23,0,0,sargeant,SAR,Logan Sargeant,Williams
+2024,24,24,0,0,doohan,DOO,Jack Doohan,Alpine F1 Team
