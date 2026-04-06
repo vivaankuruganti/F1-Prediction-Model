@@ -1,4 +1,4 @@
-# F1 2026 Prediction System
+# F1 2026 Prediction Model
 
 This project predicts the 2026 Formula 1 season using a hybrid approach:
 
