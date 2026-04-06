@@ -1,6 +1,0 @@
-manufacturer,peak_power,energy_deployment,energy_recovery,driveability,reliability
-Mercedes,1,1,1,0.98,0.93
-Ferrari,0.91,0.92,0.9,0.98,1
-Red Bull Ford,0.92,0.82,0.78,0.68,0.6
-Honda,0.4,0.5,0.5,0.5,0.3
-Audi,0.76,0.84,0.84,0.82,0.78
