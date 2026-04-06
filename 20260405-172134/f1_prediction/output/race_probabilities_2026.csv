@@ -1,0 +1,485 @@
+driver,team,win_prob,podium_prob,top5_prob,points_prob,dnf_prob,fl_prob,expected_pos,avg_pace,predicted_pos,round,circuit
+George Russell,Mercedes,0.2816,0.6606,0.8674,0.9416,0.0568,0.2816,3.78,1.01339,1,1,Australia
+Kimi Antonelli,Mercedes,0.2588,0.632,0.8622,0.9452,0.053,0.2588,3.85,1.010787,2,1,Australia
+Charles Leclerc,Ferrari,0.1808,0.5548,0.8506,0.9662,0.0318,0.1808,3.86,1.003414,3,1,Australia
+Lewis Hamilton,Ferrari,0.161,0.538,0.8242,0.966,0.0294,0.161,3.98,1.000978,4,1,Australia
+Oscar Piastri,McLaren,0.0634,0.2952,0.623,0.8972,0.0866,0.0634,5.99,0.984676,5,1,Australia
+Lando Norris,McLaren,0.0496,0.2676,0.607,0.897,0.0872,0.0496,6.14,0.982659,6,1,Australia
+Oliver Bearman,Haas,0.0016,0.0106,0.0616,0.5244,0.1402,0.0016,11.37,0.925134,7,1,Australia
+Alex Albon,Williams,0.001,0.0052,0.0322,0.4046,0.1078,0.001,12.1,0.914109,8,1,Australia
+Isak Hadjar,Red Bull Racing,0.0006,0.0078,0.068,0.5504,0.157,0.0006,11.24,0.929201,9,1,Australia
+Carlos Sainz,Williams,0.0006,0.0088,0.0546,0.5178,0.1046,0.0006,11.23,0.922722,10,1,Australia
+Pierre Gasly,Alpine,0.0004,0.007,0.0498,0.4976,0.1244,0.0004,11.49,0.922648,11,1,Australia
+Esteban Ocon,Haas,0.0004,0.0038,0.031,0.4268,0.1308,0.0004,12.08,0.916684,12,1,Australia
+Max Verstappen,Red Bull Racing,0.0002,0.0024,0.0164,0.2808,0.158,0.0002,13.44,0.905517,13,1,Australia
+Arvid Lindblad,Racing Bulls,0.0,0.001,0.0082,0.2168,0.1626,0.0,14.13,0.897654,14,1,Australia
+Sergio Perez,Cadillac,0.0,0.0002,0.0022,0.0734,0.1714,0.0,16.03,0.875579,15,1,Australia
+Franco Colapinto,Alpine,0.0,0.0014,0.0122,0.2534,0.117,0.0,13.54,0.900365,16,1,Australia
+Gabriel Bortoleto,Audi,0.0,0.0012,0.0136,0.2582,0.2174,0.0,14.03,0.903909,17,1,Australia
+Liam Lawson,Racing Bulls,0.0,0.0012,0.0078,0.1744,0.1578,0.0,14.57,0.89215,18,1,Australia
+Nico Hulkenberg,Audi,0.0,0.001,0.0068,0.1628,0.2262,0.0,15.04,0.89293,19,1,Australia
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.382,0.0,19.62,0.780242,20,1,Australia
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0046,0.3744,0.0,18.78,0.836805,21,1,Australia
+Valtteri Bottas,Cadillac,0.0,0.0002,0.0012,0.0408,0.1728,0.0,16.72,0.865464,22,1,Australia
+George Russell,Mercedes,0.2702,0.6542,0.8664,0.938,0.06,0.2702,3.88,0.999238,1,2,China
+Kimi Antonelli,Mercedes,0.2488,0.6486,0.8678,0.9404,0.0572,0.2488,3.89,0.998335,2,2,China
+Charles Leclerc,Ferrari,0.2154,0.6138,0.861,0.9658,0.0318,0.2154,3.66,0.994592,3,2,China
+Lewis Hamilton,Ferrari,0.1552,0.5064,0.8224,0.9574,0.0358,0.1552,4.17,0.988577,4,2,China
+Oscar Piastri,McLaren,0.0662,0.296,0.6302,0.8902,0.096,0.0662,6.08,0.976567,5,2,China
+Lando Norris,McLaren,0.0386,0.2026,0.5046,0.8776,0.09,0.0386,6.67,0.966933,6,2,China
+Carlos Sainz,Williams,0.002,0.022,0.1134,0.638,0.1182,0.002,10.18,0.932288,7,2,China
+Oliver Bearman,Haas,0.0012,0.0128,0.0682,0.543,0.132,0.0012,11.11,0.924444,8,2,China
+Isak Hadjar,Red Bull Racing,0.0008,0.0096,0.0518,0.4994,0.1594,0.0008,11.64,0.922405,9,2,China
+Esteban Ocon,Haas,0.0006,0.0102,0.0572,0.5072,0.143,0.0006,11.45,0.922719,10,2,China
+Pierre Gasly,Alpine,0.0004,0.009,0.0498,0.4716,0.1204,0.0004,11.57,0.918855,11,2,China
+Alex Albon,Williams,0.0004,0.006,0.0378,0.4488,0.1004,0.0004,11.64,0.916109,12,2,China
+Arvid Lindblad,Racing Bulls,0.0002,0.0016,0.0134,0.2328,0.1624,0.0002,13.82,0.901111,13,2,China
+Max Verstappen,Red Bull Racing,0.0,0.002,0.0188,0.299,0.1566,0.0,13.2,0.906833,14,2,China
+Sergio Perez,Cadillac,0.0,0.0002,0.001,0.066,0.1886,0.0,16.01,0.878276,15,2,China
+Franco Colapinto,Alpine,0.0,0.0044,0.0264,0.3664,0.1194,0.0,12.44,0.910735,16,2,China
+Gabriel Bortoleto,Audi,0.0,0.0,0.0034,0.1362,0.2244,0.0,15.2,0.892036,17,2,China
+Liam Lawson,Racing Bulls,0.0,0.0002,0.003,0.0798,0.1678,0.0,15.6,0.882488,18,2,China
+Nico Hulkenberg,Audi,0.0,0.0004,0.0024,0.1044,0.223,0.0,15.53,0.887405,19,2,China
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3736,0.0,19.55,0.778494,20,2,China
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.001,0.387,0.0,19.09,0.821895,21,2,China
+Valtteri Bottas,Cadillac,0.0,0.0,0.001,0.037,0.183,0.0,16.63,0.868877,22,2,China
+Kimi Antonelli,Mercedes,0.2594,0.6402,0.8688,0.942,0.0568,0.2594,3.85,1.0246,1,3,Japan
+Charles Leclerc,Ferrari,0.2486,0.6336,0.8734,0.9624,0.036,0.2486,3.59,1.022332,2,3,Japan
+George Russell,Mercedes,0.218,0.6036,0.845,0.937,0.062,0.218,4.11,1.020981,3,3,Japan
+Lewis Hamilton,Ferrari,0.1512,0.5154,0.8224,0.9628,0.0342,0.1512,4.09,1.013011,4,3,Japan
+Oscar Piastri,McLaren,0.0702,0.3158,0.6544,0.9036,0.0902,0.0702,5.82,0.999564,5,3,Japan
+Lando Norris,McLaren,0.0482,0.2426,0.5972,0.9004,0.0898,0.0482,6.18,0.994199,6,3,Japan
+Carlos Sainz,Williams,0.0024,0.0288,0.1432,0.7542,0.1138,0.0024,9.19,0.955323,7,3,Japan
+Max Verstappen,Red Bull Racing,0.0006,0.0016,0.0224,0.4124,0.1648,0.0006,12.41,0.922852,8,3,Japan
+Alex Albon,Williams,0.0004,0.0048,0.0408,0.5296,0.1144,0.0004,11.14,0.931477,9,3,Japan
+Oliver Bearman,Haas,0.0004,0.0038,0.0376,0.4974,0.148,0.0004,11.61,0.93017,10,3,Japan
+Pierre Gasly,Alpine,0.0002,0.0008,0.0184,0.3812,0.135,0.0002,12.45,0.918634,11,3,Japan
+Isak Hadjar,Red Bull Racing,0.0002,0.0016,0.0102,0.323,0.1602,0.0002,13.01,0.915054,12,3,Japan
+Esteban Ocon,Haas,0.0002,0.004,0.0322,0.4994,0.1484,0.0002,11.6,0.930152,13,3,Japan
+Arvid Lindblad,Racing Bulls,0.0,0.0,0.0022,0.0958,0.1764,0.0,15.33,0.887891,14,3,Japan
+Sergio Perez,Cadillac,0.0,0.0,0.0006,0.0586,0.1966,0.0,15.99,0.880563,15,3,Japan
+Franco Colapinto,Alpine,0.0,0.0018,0.0132,0.3262,0.129,0.0,12.82,0.914224,16,3,Japan
+Gabriel Bortoleto,Audi,0.0,0.0016,0.0148,0.3084,0.239,0.0,13.57,0.91721,17,3,Japan
+Liam Lawson,Racing Bulls,0.0,0.0,0.0012,0.0876,0.17,0.0,15.4,0.886511,18,3,Japan
+Nico Hulkenberg,Audi,0.0,0.0,0.0018,0.0948,0.2448,0.0,15.68,0.889871,19,3,Japan
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3976,0.0,19.43,0.786083,20,3,Japan
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.003,0.4028,0.0,18.71,0.838726,21,3,Japan
+Valtteri Bottas,Cadillac,0.0,0.0,0.0002,0.0202,0.1968,0.0,17.03,0.862754,22,3,Japan
+George Russell,Mercedes,0.2244,0.569,0.8124,0.934,0.0588,0.2244,4.26,1.000354,1,4,Miami
+Kimi Antonelli,Mercedes,0.2118,0.5746,0.8118,0.936,0.0578,0.2118,4.26,0.999968,2,4,Miami
+Lewis Hamilton,Ferrari,0.2076,0.5726,0.8276,0.9648,0.029,0.2076,3.85,0.998724,3,4,Miami
+Charles Leclerc,Ferrari,0.1996,0.5654,0.8232,0.959,0.0338,0.1996,3.95,0.997659,4,4,Miami
+Oscar Piastri,McLaren,0.0752,0.3052,0.5956,0.8838,0.0938,0.0752,6.2,0.979972,5,4,Miami
+Lando Norris,McLaren,0.072,0.3032,0.5922,0.8824,0.0906,0.072,6.21,0.978384,6,4,Miami
+Carlos Sainz,Williams,0.0036,0.0342,0.1318,0.6516,0.111,0.0036,9.95,0.936133,7,4,Miami
+Pierre Gasly,Alpine,0.0022,0.0164,0.074,0.5054,0.122,0.0022,11.27,0.923121,8,4,Miami
+Alex Albon,Williams,0.0012,0.0106,0.053,0.4542,0.1094,0.0012,11.65,0.917496,9,4,Miami
+Max Verstappen,Red Bull Racing,0.0008,0.0136,0.0786,0.5052,0.1664,0.0008,11.54,0.925323,10,4,Miami
+Esteban Ocon,Haas,0.0008,0.0084,0.05,0.4256,0.1412,0.0008,12.08,0.916432,11,4,Miami
+Oliver Bearman,Haas,0.0004,0.0096,0.0462,0.411,0.1382,0.0004,12.13,0.915884,12,4,Miami
+Gabriel Bortoleto,Audi,0.0002,0.0012,0.0118,0.1886,0.2436,0.0002,14.79,0.895174,13,4,Miami
+Isak Hadjar,Red Bull Racing,0.0002,0.0102,0.0482,0.4408,0.1612,0.0002,12.14,0.917845,14,4,Miami
+Nico Hulkenberg,Audi,0.0,0.0006,0.0068,0.1312,0.2392,0.0,15.39,0.886678,15,4,Miami
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3924,0.0,19.46,0.782473,16,4,Miami
+Liam Lawson,Racing Bulls,0.0,0.0006,0.0062,0.1392,0.167,0.0,15.02,0.885109,17,4,Miami
+Arvid Lindblad,Racing Bulls,0.0,0.0018,0.0098,0.2016,0.1642,0.0,14.16,0.895402,18,4,Miami
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0018,0.3876,0.0,18.79,0.830325,19,4,Miami
+Franco Colapinto,Alpine,0.0,0.0026,0.0172,0.271,0.1276,0.0,13.27,0.90199,20,4,Miami
+Sergio Perez,Cadillac,0.0,0.0002,0.0022,0.0726,0.1796,0.0,15.95,0.873332,21,4,Miami
+Valtteri Bottas,Cadillac,0.0,0.0,0.0014,0.0402,0.1898,0.0,16.69,0.86312,22,4,Miami
+George Russell,Mercedes,0.2536,0.6256,0.8464,0.9354,0.0612,0.2536,4.03,0.996035,1,5,Canada
+Kimi Antonelli,Mercedes,0.2464,0.616,0.8418,0.933,0.0646,0.2464,4.13,0.995581,2,5,Canada
+Lewis Hamilton,Ferrari,0.185,0.5472,0.8176,0.962,0.0308,0.185,3.98,0.988868,3,5,Canada
+Charles Leclerc,Ferrari,0.1782,0.549,0.8094,0.9604,0.032,0.1782,4.05,0.988217,4,5,Canada
+Oscar Piastri,McLaren,0.064,0.2824,0.5798,0.873,0.0988,0.064,6.4,0.971581,5,5,Canada
+Lando Norris,McLaren,0.0612,0.2664,0.5658,0.8726,0.0974,0.0612,6.47,0.970391,6,5,Canada
+Carlos Sainz,Williams,0.0048,0.0342,0.1426,0.6606,0.1156,0.0048,9.9,0.934552,7,5,Canada
+Pierre Gasly,Alpine,0.0016,0.018,0.0746,0.5214,0.1302,0.0016,11.19,0.923616,8,5,Canada
+Alex Albon,Williams,0.0016,0.015,0.0624,0.4784,0.107,0.0016,11.36,0.919711,9,5,Canada
+Isak Hadjar,Red Bull Racing,0.001,0.0096,0.052,0.4428,0.1644,0.001,12.06,0.918563,10,5,Canada
+Oliver Bearman,Haas,0.001,0.012,0.0608,0.4826,0.149,0.001,11.68,0.920745,11,5,Canada
+Max Verstappen,Red Bull Racing,0.0008,0.0076,0.0402,0.3704,0.1718,0.0008,12.66,0.913342,12,5,Canada
+Esteban Ocon,Haas,0.0004,0.0068,0.0412,0.3998,0.1326,0.0004,12.17,0.914123,13,5,Canada
+Arvid Lindblad,Racing Bulls,0.0002,0.003,0.0148,0.2332,0.1766,0.0002,13.95,0.90029,14,5,Canada
+Franco Colapinto,Alpine,0.0002,0.0054,0.0258,0.3126,0.129,0.0002,12.9,0.906536,15,5,Canada
+Sergio Perez,Cadillac,0.0,0.0,0.0024,0.0576,0.1862,0.0,16.18,0.874269,16,5,Canada
+Gabriel Bortoleto,Audi,0.0,0.0008,0.0098,0.1904,0.232,0.0,14.67,0.897193,17,5,Canada
+Liam Lawson,Racing Bulls,0.0,0.0006,0.0086,0.1674,0.1672,0.0,14.56,0.892966,18,5,Canada
+Nico Hulkenberg,Audi,0.0,0.0004,0.0032,0.1054,0.2396,0.0,15.63,0.886034,19,5,Canada
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3956,0.0,19.47,0.783115,20,5,Canada
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0018,0.3922,0.0,18.93,0.826741,21,5,Canada
+Valtteri Bottas,Cadillac,0.0,0.0,0.0008,0.0392,0.1868,0.0,16.65,0.867303,22,5,Canada
+Charles Leclerc,Ferrari,0.2724,0.6798,0.9118,0.966,0.0336,0.2724,3.32,1.03993,1,6,Monaco
+George Russell,Mercedes,0.2412,0.6552,0.8796,0.9404,0.0594,0.2412,3.85,1.038601,2,6,Monaco
+Lewis Hamilton,Ferrari,0.2358,0.6434,0.899,0.9684,0.0308,0.2358,3.46,1.036638,3,6,Monaco
+Kimi Antonelli,Mercedes,0.1646,0.557,0.844,0.9366,0.0618,0.1646,4.3,1.031145,4,6,Monaco
+Oscar Piastri,McLaren,0.0604,0.2856,0.6694,0.8984,0.094,0.0604,5.92,1.012129,5,6,Monaco
+Lando Norris,McLaren,0.0222,0.1352,0.4328,0.8908,0.0856,0.0222,6.91,0.99449,6,6,Monaco
+Pierre Gasly,Alpine,0.0014,0.0168,0.1094,0.7078,0.125,0.0014,9.75,0.961978,7,6,Monaco
+Oliver Bearman,Haas,0.0012,0.0164,0.1146,0.7028,0.1484,0.0012,9.91,0.963474,8,6,Monaco
+Max Verstappen,Red Bull Racing,0.0004,0.0012,0.013,0.3272,0.1674,0.0004,12.95,0.92792,9,6,Monaco
+Alex Albon,Williams,0.0002,0.0026,0.0246,0.4898,0.1246,0.0002,11.54,0.939378,10,6,Monaco
+Esteban Ocon,Haas,0.0002,0.0026,0.0438,0.567,0.143,0.0002,11.11,0.94727,11,6,Monaco
+Sergio Perez,Cadillac,0.0,0.0002,0.0034,0.1678,0.1862,0.0,14.41,0.912196,12,6,Monaco
+Franco Colapinto,Alpine,0.0,0.0004,0.0094,0.3156,0.1314,0.0,12.82,0.925405,13,6,Monaco
+Arvid Lindblad,Racing Bulls,0.0,0.0,0.0002,0.0468,0.1792,0.0,16.08,0.888088,14,6,Monaco
+Liam Lawson,Racing Bulls,0.0,0.0,0.0,0.0224,0.1712,0.0,16.81,0.874645,15,6,Monaco
+Gabriel Bortoleto,Audi,0.0,0.0004,0.0046,0.1656,0.2408,0.0,14.73,0.913891,16,6,Monaco
+Carlos Sainz,Williams,0.0,0.0022,0.029,0.4948,0.1206,0.0,11.47,0.939344,17,6,Monaco
+Isak Hadjar,Red Bull Racing,0.0,0.0008,0.0102,0.2924,0.1502,0.0,13.08,0.924542,18,6,Monaco
+Nico Hulkenberg,Audi,0.0,0.0002,0.0012,0.067,0.2478,0.0,16.04,0.89476,19,6,Monaco
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.41,0.0,19.5,0.790824,20,6,Monaco
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0026,0.403,0.0,18.57,0.855718,21,6,Monaco
+Valtteri Bottas,Cadillac,0.0,0.0,0.0,0.0298,0.1768,0.0,16.48,0.881339,22,6,Monaco
+Kimi Antonelli,Mercedes,0.2538,0.634,0.8678,0.9366,0.063,0.2538,3.94,1.018714,1,7,Spain
+George Russell,Mercedes,0.25,0.6344,0.8702,0.9444,0.055,0.25,3.85,1.018173,2,7,Spain
+Charles Leclerc,Ferrari,0.2316,0.6338,0.8842,0.97,0.0292,0.2316,3.49,1.016017,3,7,Spain
+Lewis Hamilton,Ferrari,0.139,0.4944,0.8292,0.9692,0.028,0.139,4.04,1.007656,4,7,Spain
+Oscar Piastri,McLaren,0.083,0.3478,0.7016,0.9092,0.0876,0.083,5.55,1.000195,5,7,Spain
+Lando Norris,McLaren,0.0406,0.2206,0.5692,0.9004,0.0904,0.0406,6.3,0.990083,6,7,Spain
+Pierre Gasly,Alpine,0.0008,0.01,0.0778,0.672,0.1258,0.0008,10.16,0.946734,7,7,Spain
+Carlos Sainz,Williams,0.0006,0.0096,0.0676,0.6778,0.104,0.0006,10.02,0.945334,8,7,Spain
+Max Verstappen,Red Bull Racing,0.0002,0.0014,0.0144,0.3792,0.1582,0.0002,12.6,0.924472,9,7,Spain
+Oliver Bearman,Haas,0.0002,0.004,0.031,0.5134,0.1446,0.0002,11.48,0.934515,10,7,Spain
+Esteban Ocon,Haas,0.0002,0.003,0.0182,0.3864,0.137,0.0002,12.36,0.924708,11,7,Spain
+Sergio Perez,Cadillac,0.0,0.0,0.0004,0.0354,0.182,0.0,16.53,0.882338,12,7,Spain
+Franco Colapinto,Alpine,0.0,0.0008,0.006,0.2064,0.1228,0.0,13.75,0.910256,13,7,Spain
+Arvid Lindblad,Racing Bulls,0.0,0.0,0.0032,0.1446,0.1652,0.0,14.64,0.904295,14,7,Spain
+Liam Lawson,Racing Bulls,0.0,0.0002,0.0036,0.1638,0.1652,0.0,14.44,0.90647,15,7,Spain
+Gabriel Bortoleto,Audi,0.0,0.0002,0.0058,0.1742,0.2208,0.0,14.71,0.908008,16,7,Spain
+Alex Albon,Williams,0.0,0.0032,0.028,0.508,0.1096,0.0,11.32,0.932771,17,7,Spain
+Isak Hadjar,Red Bull Racing,0.0,0.0024,0.021,0.4076,0.1622,0.0,12.4,0.927539,18,7,Spain
+Nico Hulkenberg,Audi,0.0,0.0002,0.0004,0.0762,0.239,0.0,16.01,0.89417,19,7,Spain
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3952,0.0,19.59,0.786032,20,7,Spain
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0,0.393,0.0,19.12,0.830533,21,7,Spain
+Valtteri Bottas,Cadillac,0.0,0.0,0.0004,0.0252,0.1802,0.0,16.71,0.878555,22,7,Spain
+George Russell,Mercedes,0.2664,0.6418,0.8522,0.941,0.0574,0.2664,3.9,1.011955,1,8,Austria
+Kimi Antonelli,Mercedes,0.2598,0.6392,0.8448,0.9346,0.0616,0.2598,4.0,1.01134,2,8,Austria
+Lewis Hamilton,Ferrari,0.1914,0.5652,0.8282,0.9622,0.0318,0.1914,3.91,1.004172,3,8,Austria
+Charles Leclerc,Ferrari,0.1558,0.5044,0.7966,0.9604,0.0316,0.1558,4.2,0.999647,4,8,Austria
+Oscar Piastri,McLaren,0.0642,0.299,0.6206,0.8944,0.0892,0.0642,6.05,0.986421,5,8,Austria
+Lando Norris,McLaren,0.0542,0.2638,0.577,0.8842,0.0906,0.0542,6.32,0.983339,6,8,Austria
+Isak Hadjar,Red Bull Racing,0.0024,0.0102,0.0654,0.497,0.1632,0.0024,11.64,0.930642,7,8,Austria
+Carlos Sainz,Williams,0.002,0.0268,0.1304,0.6692,0.1078,0.002,9.83,0.942641,8,8,Austria
+Max Verstappen,Red Bull Racing,0.001,0.012,0.0644,0.514,0.151,0.001,11.45,0.930541,9,8,Austria
+Oliver Bearman,Haas,0.001,0.0106,0.0548,0.4954,0.1426,0.001,11.54,0.928787,10,8,Austria
+Esteban Ocon,Haas,0.0008,0.0048,0.025,0.3458,0.1314,0.0008,12.69,0.915676,11,8,Austria
+Pierre Gasly,Alpine,0.0006,0.0142,0.0694,0.5422,0.1202,0.0006,11.06,0.931376,12,8,Austria
+Arvid Lindblad,Racing Bulls,0.0002,0.001,0.008,0.2066,0.1622,0.0002,14.13,0.902742,13,8,Austria
+Nico Hulkenberg,Audi,0.0002,0.0004,0.0024,0.1164,0.237,0.0002,15.53,0.892083,14,8,Austria
+Sergio Perez,Cadillac,0.0,0.0006,0.0016,0.0448,0.19,0.0,16.4,0.875728,15,8,Austria
+Franco Colapinto,Alpine,0.0,0.0014,0.0144,0.2606,0.1274,0.0,13.36,0.908404,16,8,Austria
+Gabriel Bortoleto,Audi,0.0,0.0002,0.006,0.1514,0.2184,0.0,14.97,0.897939,17,8,Austria
+Liam Lawson,Racing Bulls,0.0,0.0002,0.0046,0.1492,0.1666,0.0,14.69,0.896672,18,8,Austria
+Alex Albon,Williams,0.0,0.0042,0.0338,0.397,0.1068,0.0,12.09,0.919323,19,8,Austria
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3794,0.0,19.52,0.786163,20,8,Austria
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.002,0.3928,0.0,18.93,0.834559,21,8,Austria
+Valtteri Bottas,Cadillac,0.0,0.0,0.0004,0.0316,0.174,0.0,16.78,0.868484,22,8,Austria
+George Russell,Mercedes,0.3236,0.6978,0.8766,0.9402,0.0592,0.3236,3.64,1.024271,1,9,Great Britain
+Lewis Hamilton,Ferrari,0.201,0.5848,0.8608,0.967,0.0308,0.201,3.72,1.014001,2,9,Great Britain
+Kimi Antonelli,Mercedes,0.1926,0.5648,0.8288,0.9364,0.062,0.1926,4.28,1.013796,3,9,Great Britain
+Charles Leclerc,Ferrari,0.1622,0.528,0.8434,0.9692,0.0286,0.1622,3.92,1.010621,4,9,Great Britain
+Oscar Piastri,McLaren,0.0634,0.3012,0.645,0.9094,0.0848,0.0634,5.82,0.996426,5,9,Great Britain
+Lando Norris,McLaren,0.0538,0.2736,0.6168,0.9068,0.0816,0.0538,5.95,0.993913,6,9,Great Britain
+Alex Albon,Williams,0.0012,0.0094,0.0608,0.5916,0.1032,0.0012,10.62,0.941667,7,9,Great Britain
+Pierre Gasly,Alpine,0.001,0.013,0.0748,0.639,0.121,0.001,10.39,0.946213,8,9,Great Britain
+Carlos Sainz,Williams,0.0006,0.0092,0.0582,0.59,0.1062,0.0006,10.61,0.942218,9,9,Great Britain
+Gabriel Bortoleto,Audi,0.0002,0.0006,0.0026,0.119,0.2324,0.0002,15.26,0.905396,10,9,Great Britain
+Franco Colapinto,Alpine,0.0002,0.0028,0.0172,0.3622,0.115,0.0002,12.37,0.925179,11,9,Great Britain
+Esteban Ocon,Haas,0.0002,0.005,0.0332,0.504,0.1294,0.0002,11.44,0.936309,12,9,Great Britain
+Liam Lawson,Racing Bulls,0.0,0.0002,0.0012,0.0744,0.1626,0.0,15.58,0.894602,13,9,Great Britain
+Sergio Perez,Cadillac,0.0,0.0,0.0008,0.0594,0.187,0.0,15.92,0.892575,14,9,Great Britain
+Arvid Lindblad,Racing Bulls,0.0,0.0002,0.0012,0.0858,0.1762,0.0,15.4,0.898724,15,9,Great Britain
+Max Verstappen,Red Bull Racing,0.0,0.0028,0.0184,0.3538,0.1536,0.0,12.7,0.925669,16,9,Great Britain
+Oliver Bearman,Haas,0.0,0.002,0.024,0.4278,0.1408,0.0,12.07,0.931003,17,9,Great Britain
+Isak Hadjar,Red Bull Racing,0.0,0.0044,0.0346,0.4738,0.1582,0.0,11.84,0.935225,18,9,Great Britain
+Nico Hulkenberg,Audi,0.0,0.0002,0.001,0.0616,0.2258,0.0,16.07,0.893716,19,9,Great Britain
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0002,0.3884,0.0,19.59,0.788038,20,9,Great Britain
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0,0.3872,0.0,19.16,0.832278,21,9,Great Britain
+Valtteri Bottas,Cadillac,0.0,0.0,0.0006,0.0284,0.1824,0.0,16.63,0.881665,22,9,Great Britain
+George Russell,Mercedes,0.318,0.6884,0.8744,0.9396,0.0592,0.318,3.68,1.013999,1,10,Belgium
+Kimi Antonelli,Mercedes,0.2744,0.6566,0.8618,0.9386,0.058,0.2744,3.83,1.010991,2,10,Belgium
+Charles Leclerc,Ferrari,0.1534,0.5276,0.816,0.9608,0.0342,0.1534,4.1,1.000928,3,10,Belgium
+Lewis Hamilton,Ferrari,0.1274,0.4708,0.799,0.9636,0.0316,0.1274,4.29,0.997505,4,10,Belgium
+Oscar Piastri,McLaren,0.07,0.3348,0.6628,0.8996,0.0888,0.07,5.8,0.98988,5,10,Belgium
+Lando Norris,McLaren,0.053,0.2538,0.5668,0.888,0.0902,0.053,6.3,0.983345,6,10,Belgium
+Pierre Gasly,Alpine,0.0012,0.0082,0.0594,0.51,0.1332,0.0012,11.34,0.933673,7,10,Belgium
+Isak Hadjar,Red Bull Racing,0.0012,0.0128,0.0724,0.5704,0.1582,0.0012,11.01,0.939757,8,10,Belgium
+Carlos Sainz,Williams,0.0004,0.0214,0.1048,0.6566,0.1168,0.0004,10.07,0.944267,9,10,Belgium
+Esteban Ocon,Haas,0.0004,0.0032,0.0266,0.3806,0.1446,0.0004,12.47,0.923788,10,10,Belgium
+Liam Lawson,Racing Bulls,0.0002,0.0004,0.0058,0.1384,0.167,0.0002,14.73,0.90247,11,10,Belgium
+Oliver Bearman,Haas,0.0002,0.0082,0.0626,0.5394,0.1388,0.0002,11.16,0.936085,12,10,Belgium
+Alex Albon,Williams,0.0002,0.0052,0.0298,0.379,0.1106,0.0002,12.23,0.923066,13,10,Belgium
+Max Verstappen,Red Bull Racing,0.0,0.0036,0.0254,0.3834,0.1762,0.0,12.63,0.925447,14,10,Belgium
+Franco Colapinto,Alpine,0.0,0.0028,0.0134,0.2868,0.1328,0.0,13.14,0.916316,15,10,Belgium
+Arvid Lindblad,Racing Bulls,0.0,0.001,0.0068,0.218,0.1702,0.0,13.99,0.910541,16,10,Belgium
+Sergio Perez,Cadillac,0.0,0.0,0.0008,0.0372,0.1896,0.0,16.56,0.879994,17,10,Belgium
+Gabriel Bortoleto,Audi,0.0,0.0008,0.0072,0.18,0.2328,0.0,14.64,0.908763,18,10,Belgium
+Nico Hulkenberg,Audi,0.0,0.0004,0.0036,0.1032,0.25,0.0,15.59,0.89908,19,10,Belgium
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3904,0.0,19.47,0.787498,20,10,Belgium
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0006,0.4086,0.0,19.08,0.830086,21,10,Belgium
+Valtteri Bottas,Cadillac,0.0,0.0,0.0006,0.0262,0.184,0.0,16.87,0.874218,22,10,Belgium
+George Russell,Mercedes,0.3138,0.6872,0.8888,0.9456,0.0542,0.3138,3.57,1.040105,1,11,Hungary
+Kimi Antonelli,Mercedes,0.2172,0.5946,0.8546,0.9402,0.0592,0.2172,4.07,1.032718,2,11,Hungary
+Charles Leclerc,Ferrari,0.217,0.6214,0.874,0.9648,0.0348,0.217,3.64,1.032502,3,11,Hungary
+Lewis Hamilton,Ferrari,0.116,0.4424,0.8116,0.9712,0.0274,0.116,4.21,1.021874,4,11,Hungary
+Oscar Piastri,McLaren,0.0852,0.3656,0.7248,0.921,0.0754,0.0852,5.29,1.017652,5,11,Hungary
+Lando Norris,McLaren,0.0498,0.2592,0.608,0.8992,0.0936,0.0498,6.12,1.009951,6,11,Hungary
+Pierre Gasly,Alpine,0.0004,0.0084,0.0626,0.6856,0.1282,0.0004,10.09,0.960517,7,11,Hungary
+Isak Hadjar,Red Bull Racing,0.0002,0.0032,0.0248,0.5162,0.1584,0.0002,11.57,0.946913,8,11,Hungary
+Carlos Sainz,Williams,0.0002,0.0098,0.0606,0.6884,0.1094,0.0002,10.01,0.958828,9,11,Hungary
+Esteban Ocon,Haas,0.0002,0.0002,0.0146,0.4126,0.1352,0.0002,12.11,0.938405,10,11,Hungary
+Max Verstappen,Red Bull Racing,0.0,0.002,0.0098,0.3116,0.1576,0.0,12.93,0.931672,11,11,Hungary
+Liam Lawson,Racing Bulls,0.0,0.0,0.0,0.0188,0.1768,0.0,16.75,0.884122,12,11,Hungary
+Sergio Perez,Cadillac,0.0,0.0,0.0004,0.0502,0.1788,0.0,15.87,0.89748,13,11,Hungary
+Franco Colapinto,Alpine,0.0,0.0004,0.0098,0.3302,0.1354,0.0,12.68,0.931783,14,11,Hungary
+Arvid Lindblad,Racing Bulls,0.0,0.0,0.0008,0.0484,0.1654,0.0,15.91,0.896281,15,11,Hungary
+Gabriel Bortoleto,Audi,0.0,0.0004,0.002,0.1782,0.2316,0.0,14.5,0.9208,16,11,Hungary
+Oliver Bearman,Haas,0.0,0.0044,0.0364,0.5674,0.1406,0.0,11.05,0.950718,17,11,Hungary
+Alex Albon,Williams,0.0,0.0008,0.0154,0.4612,0.1156,0.0,11.72,0.939787,18,11,Hungary
+Nico Hulkenberg,Audi,0.0,0.0,0.001,0.0628,0.2276,0.0,15.89,0.901865,19,11,Hungary
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3828,0.0,19.57,0.794505,20,11,Hungary
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0,0.3672,0.0,19.01,0.841049,21,11,Hungary
+Valtteri Bottas,Cadillac,0.0,0.0,0.0,0.0264,0.1748,0.0,16.44,0.888648,22,11,Hungary
+Lewis Hamilton,Ferrari,0.29,0.7122,0.9154,0.9666,0.033,0.29,3.23,1.050642,1,12,Netherlands
+George Russell,Mercedes,0.262,0.6894,0.8856,0.9404,0.059,0.262,3.73,1.049841,2,12,Netherlands
+Charles Leclerc,Ferrari,0.2054,0.6184,0.8836,0.9648,0.0346,0.2054,3.65,1.042981,3,12,Netherlands
+Kimi Antonelli,Mercedes,0.1878,0.5926,0.857,0.9404,0.059,0.1878,4.13,1.0423,4,12,Netherlands
+Oscar Piastri,McLaren,0.0358,0.2032,0.599,0.9076,0.0814,0.0358,6.22,1.012562,5,12,Netherlands
+Lando Norris,McLaren,0.016,0.125,0.4236,0.8742,0.0956,0.016,7.21,1.000297,6,12,Netherlands
+Oliver Bearman,Haas,0.0008,0.014,0.095,0.638,0.1372,0.0008,10.35,0.964145,7,12,Netherlands
+Carlos Sainz,Williams,0.0008,0.0182,0.1094,0.695,0.1066,0.0008,9.76,0.966568,8,12,Netherlands
+Max Verstappen,Red Bull Racing,0.0006,0.0096,0.068,0.5756,0.1628,0.0006,11.04,0.959253,9,12,Netherlands
+Esteban Ocon,Haas,0.0006,0.0052,0.0392,0.4872,0.1348,0.0006,11.55,0.948946,10,12,Netherlands
+Pierre Gasly,Alpine,0.0002,0.0078,0.072,0.6164,0.1278,0.0002,10.59,0.959873,11,12,Netherlands
+Sergio Perez,Cadillac,0.0,0.0,0.0002,0.0298,0.1786,0.0,16.54,0.885929,12,12,Netherlands
+Franco Colapinto,Alpine,0.0,0.0,0.006,0.193,0.1288,0.0,13.87,0.919369,13,12,Netherlands
+Arvid Lindblad,Racing Bulls,0.0,0.0,0.002,0.0844,0.161,0.0,15.28,0.90401,14,12,Netherlands
+Liam Lawson,Racing Bulls,0.0,0.0,0.0004,0.0634,0.1664,0.0,15.68,0.898689,15,12,Netherlands
+Gabriel Bortoleto,Audi,0.0,0.0012,0.0094,0.2286,0.2268,0.0,14.08,0.928277,16,12,Netherlands
+Alex Albon,Williams,0.0,0.001,0.0178,0.365,0.113,0.0,12.3,0.937301,17,12,Netherlands
+Isak Hadjar,Red Bull Racing,0.0,0.0022,0.0158,0.3352,0.1484,0.0,12.75,0.935696,18,12,Netherlands
+Nico Hulkenberg,Audi,0.0,0.0,0.0004,0.0656,0.228,0.0,16.0,0.899657,19,12,Netherlands
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3774,0.0,19.54,0.795232,20,12,Netherlands
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0018,0.3896,0.0,18.8,0.850432,21,12,Netherlands
+Valtteri Bottas,Cadillac,0.0,0.0,0.0002,0.027,0.1776,0.0,16.72,0.883204,22,12,Netherlands
+George Russell,Mercedes,0.3132,0.7026,0.8802,0.9394,0.0592,0.3132,3.66,1.018722,1,13,Italy
+Kimi Antonelli,Mercedes,0.2762,0.67,0.8684,0.9382,0.0596,0.2762,3.81,1.016108,2,13,Italy
+Charles Leclerc,Ferrari,0.165,0.542,0.8454,0.9658,0.0314,0.165,3.92,1.006699,3,13,Italy
+Lewis Hamilton,Ferrari,0.1376,0.5,0.815,0.9634,0.0318,0.1376,4.16,1.003373,4,13,Italy
+Oscar Piastri,McLaren,0.0532,0.2636,0.6086,0.892,0.0916,0.0532,6.17,0.98974,5,13,Italy
+Lando Norris,McLaren,0.0516,0.264,0.6048,0.8978,0.0862,0.0516,6.11,0.989729,6,13,Italy
+Pierre Gasly,Alpine,0.0008,0.0142,0.0786,0.6108,0.1226,0.0008,10.52,0.945874,7,13,Italy
+Carlos Sainz,Williams,0.0008,0.0108,0.0664,0.58,0.1158,0.0008,10.74,0.943059,8,13,Italy
+Esteban Ocon,Haas,0.0004,0.0054,0.0348,0.4242,0.1414,0.0004,12.1,0.932348,9,13,Italy
+Oliver Bearman,Haas,0.0004,0.0056,0.035,0.4226,0.1404,0.0004,12.04,0.933094,10,13,Italy
+Max Verstappen,Red Bull Racing,0.0002,0.004,0.0266,0.384,0.1564,0.0002,12.5,0.930092,11,13,Italy
+Franco Colapinto,Alpine,0.0002,0.002,0.0196,0.3306,0.1226,0.0002,12.65,0.925977,12,13,Italy
+Isak Hadjar,Red Bull Racing,0.0002,0.0096,0.0572,0.5164,0.1664,0.0002,11.54,0.940909,13,13,Italy
+Alex Albon,Williams,0.0002,0.0044,0.0406,0.477,0.1072,0.0002,11.48,0.935474,14,13,Italy
+Arvid Lindblad,Racing Bulls,0.0,0.001,0.009,0.2096,0.1634,0.0,13.9,0.917198,15,13,Italy
+Sergio Perez,Cadillac,0.0,0.0,0.0,0.0278,0.1836,0.0,16.78,0.883118,16,13,Italy
+Gabriel Bortoleto,Audi,0.0,0.0002,0.0038,0.1352,0.2268,0.0,15.14,0.908778,17,13,Italy
+Liam Lawson,Racing Bulls,0.0,0.0004,0.0046,0.1972,0.1582,0.0,14.06,0.915069,18,13,Italy
+Nico Hulkenberg,Audi,0.0,0.0002,0.0014,0.0616,0.2232,0.0,16.19,0.895314,19,13,Italy
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3874,0.0,19.56,0.788342,20,13,Italy
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0,0.3826,0.0,19.18,0.830257,21,13,Italy
+Valtteri Bottas,Cadillac,0.0,0.0,0.0,0.0264,0.1848,0.0,16.78,0.883524,22,13,Italy
+Kimi Antonelli,Mercedes,0.2886,0.6746,0.883,0.9416,0.0568,0.2886,3.69,1.028816,1,14,Madrid
+George Russell,Mercedes,0.2786,0.67,0.8806,0.9392,0.0596,0.2786,3.78,1.028431,2,14,Madrid
+Charles Leclerc,Ferrari,0.1984,0.6142,0.872,0.9618,0.0364,0.1984,3.71,1.022551,3,14,Madrid
+Lewis Hamilton,Ferrari,0.1492,0.5122,0.8258,0.9602,0.037,0.1492,4.12,1.01567,4,14,Madrid
+Oscar Piastri,McLaren,0.0408,0.2454,0.5962,0.9026,0.0856,0.0408,6.14,0.998414,5,14,Madrid
+Lando Norris,McLaren,0.04,0.2378,0.598,0.9008,0.0862,0.04,6.19,0.997561,6,14,Madrid
+Carlos Sainz,Williams,0.001,0.009,0.078,0.6184,0.111,0.001,10.39,0.950163,7,14,Madrid
+Oliver Bearman,Haas,0.001,0.0092,0.0688,0.6046,0.142,0.001,10.76,0.95028,8,14,Madrid
+Pierre Gasly,Alpine,0.001,0.0068,0.045,0.5292,0.1274,0.001,11.22,0.943481,9,14,Madrid
+Isak Hadjar,Red Bull Racing,0.0004,0.0058,0.0416,0.4766,0.1608,0.0004,11.8,0.94121,10,14,Madrid
+Max Verstappen,Red Bull Racing,0.0002,0.0044,0.0294,0.4088,0.1646,0.0002,12.36,0.935687,11,14,Madrid
+Esteban Ocon,Haas,0.0002,0.0044,0.027,0.4248,0.1406,0.0002,12.08,0.936311,12,14,Madrid
+Liam Lawson,Racing Bulls,0.0002,0.0008,0.0056,0.1724,0.1678,0.0002,14.47,0.913561,13,14,Madrid
+Alex Albon,Williams,0.0002,0.0016,0.021,0.3686,0.1152,0.0002,12.39,0.930563,14,14,Madrid
+Franco Colapinto,Alpine,0.0002,0.0024,0.0154,0.304,0.1306,0.0002,12.98,0.926088,15,14,Madrid
+Arvid Lindblad,Racing Bulls,0.0,0.0004,0.0034,0.1196,0.1574,0.0,14.95,0.907204,16,14,Madrid
+Sergio Perez,Cadillac,0.0,0.0,0.0004,0.0298,0.1834,0.0,16.61,0.886756,17,14,Madrid
+Gabriel Bortoleto,Audi,0.0,0.0004,0.0042,0.1628,0.235,0.0,14.9,0.914155,18,14,Madrid
+Nico Hulkenberg,Audi,0.0,0.0006,0.0046,0.1496,0.2264,0.0,14.98,0.912505,19,14,Madrid
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3996,0.0,19.54,0.795099,20,14,Madrid
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0004,0.3928,0.0,19.07,0.839021,21,14,Madrid
+Valtteri Bottas,Cadillac,0.0,0.0,0.0,0.0242,0.1826,0.0,16.88,0.8827,22,14,Madrid
+George Russell,Mercedes,0.3018,0.6742,0.8692,0.9354,0.062,0.3018,3.8,1.016574,1,15,Azerbaijan
+Kimi Antonelli,Mercedes,0.2674,0.6462,0.8462,0.9356,0.0612,0.2674,3.96,1.013805,2,15,Azerbaijan
+Charles Leclerc,Ferrari,0.1696,0.5478,0.817,0.959,0.0334,0.1696,4.05,1.004951,3,15,Azerbaijan
+Lewis Hamilton,Ferrari,0.1404,0.485,0.7836,0.9538,0.0342,0.1404,4.34,1.000577,4,15,Azerbaijan
+Oscar Piastri,McLaren,0.0716,0.3116,0.6158,0.8844,0.0946,0.0716,6.12,0.990072,5,15,Azerbaijan
+Lando Norris,McLaren,0.042,0.223,0.5254,0.8708,0.0894,0.042,6.65,0.982219,6,15,Azerbaijan
+Carlos Sainz,Williams,0.0024,0.032,0.1412,0.6532,0.1206,0.0024,9.96,0.950432,7,15,Azerbaijan
+Alex Albon,Williams,0.0018,0.0142,0.0698,0.5162,0.1146,0.0018,11.16,0.938225,8,15,Azerbaijan
+Isak Hadjar,Red Bull Racing,0.0014,0.0208,0.0898,0.542,0.1746,0.0014,11.27,0.943253,9,15,Azerbaijan
+Max Verstappen,Red Bull Racing,0.0006,0.0054,0.0318,0.3714,0.1742,0.0006,12.71,0.928202,10,15,Azerbaijan
+Franco Colapinto,Alpine,0.0006,0.0046,0.0246,0.2934,0.134,0.0006,13.11,0.92049,11,15,Azerbaijan
+Nico Hulkenberg,Audi,0.0002,0.0004,0.0036,0.1014,0.2402,0.0002,15.65,0.901002,12,15,Azerbaijan
+Esteban Ocon,Haas,0.0002,0.0068,0.0372,0.3604,0.1448,0.0002,12.61,0.926906,13,15,Azerbaijan
+Arvid Lindblad,Racing Bulls,0.0,0.0024,0.0164,0.2682,0.1734,0.0,13.58,0.919457,14,15,Azerbaijan
+Sergio Perez,Cadillac,0.0,0.0004,0.0022,0.0642,0.1916,0.0,16.11,0.891188,15,15,Azerbaijan
+Pierre Gasly,Alpine,0.0,0.0146,0.0612,0.4704,0.13,0.0,11.59,0.934978,16,15,Azerbaijan
+Gabriel Bortoleto,Audi,0.0,0.0008,0.0096,0.1738,0.2482,0.0,14.8,0.913216,17,15,Azerbaijan
+Liam Lawson,Racing Bulls,0.0,0.0026,0.0132,0.2292,0.1646,0.0,13.88,0.915882,18,15,Azerbaijan
+Oliver Bearman,Haas,0.0,0.0072,0.0418,0.3866,0.143,0.0,12.38,0.929059,19,15,Azerbaijan
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3988,0.0,19.42,0.794363,20,15,Azerbaijan
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0008,0.4126,0.0,19.02,0.838356,21,15,Azerbaijan
+Valtteri Bottas,Cadillac,0.0,0.0,0.0004,0.0298,0.1908,0.0,16.83,0.87885,22,15,Azerbaijan
+Kimi Antonelli,Mercedes,0.2426,0.6168,0.8488,0.9306,0.0688,0.2426,4.1,1.051825,1,16,Singapore
+Lewis Hamilton,Ferrari,0.234,0.6074,0.867,0.9658,0.0328,0.234,3.64,1.047765,2,16,Singapore
+George Russell,Mercedes,0.2234,0.604,0.8508,0.9408,0.0586,0.2234,4.02,1.049505,3,16,Singapore
+Charles Leclerc,Ferrari,0.168,0.5408,0.8336,0.9644,0.0328,0.168,3.97,1.041824,4,16,Singapore
+Lando Norris,McLaren,0.0792,0.3302,0.6628,0.9048,0.088,0.0792,5.75,1.026733,5,16,Singapore
+Oscar Piastri,McLaren,0.0492,0.2512,0.5862,0.9014,0.0884,0.0492,6.15,1.019343,6,16,Singapore
+Carlos Sainz,Williams,0.0016,0.0196,0.1178,0.7172,0.1238,0.0016,9.65,0.97186,7,16,Singapore
+Oliver Bearman,Haas,0.0008,0.0102,0.066,0.6106,0.149,0.0008,10.76,0.960589,8,16,Singapore
+Esteban Ocon,Haas,0.0006,0.0056,0.0414,0.5376,0.1544,0.0006,11.35,0.953165,9,16,Singapore
+Max Verstappen,Red Bull Racing,0.0004,0.0024,0.0192,0.4074,0.1754,0.0004,12.45,0.941134,10,16,Singapore
+Isak Hadjar,Red Bull Racing,0.0002,0.0034,0.0312,0.4576,0.1702,0.0002,12.04,0.945957,11,16,Singapore
+Liam Lawson,Racing Bulls,0.0,0.0,0.0004,0.0376,0.1824,0.0,16.37,0.885751,12,16,Singapore
+Sergio Perez,Cadillac,0.0,0.0,0.0,0.0594,0.1936,0.0,16.02,0.892978,13,16,Singapore
+Franco Colapinto,Alpine,0.0,0.0012,0.012,0.3002,0.1354,0.0,12.99,0.929309,14,16,Singapore
+Pierre Gasly,Alpine,0.0,0.0052,0.0404,0.5448,0.1338,0.0,11.14,0.952927,15,16,Singapore
+Arvid Lindblad,Racing Bulls,0.0,0.0002,0.0024,0.0996,0.1858,0.0,15.27,0.904305,16,16,Singapore
+Gabriel Bortoleto,Audi,0.0,0.0,0.0032,0.131,0.2464,0.0,15.24,0.910964,17,16,Singapore
+Alex Albon,Williams,0.0,0.0016,0.0138,0.3304,0.1252,0.0,12.65,0.932983,18,16,Singapore
+Nico Hulkenberg,Audi,0.0,0.0002,0.0024,0.106,0.2554,0.0,15.61,0.905133,19,16,Singapore
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0002,0.4034,0.0,19.31,0.813412,20,16,Singapore
+Fernando Alonso,Aston Martin,0.0,0.0,0.0004,0.013,0.4022,0.0,18.08,0.871531,21,16,Singapore
+Valtteri Bottas,Cadillac,0.0,0.0,0.0002,0.0396,0.2054,0.0,16.43,0.887899,22,16,Singapore
+George Russell,Mercedes,0.2944,0.6972,0.8918,0.9416,0.0568,0.2944,3.61,1.032485,1,17,USA Austin
+Kimi Antonelli,Mercedes,0.2494,0.6558,0.8766,0.9376,0.0618,0.2494,3.87,1.029854,2,17,USA Austin
+Lewis Hamilton,Ferrari,0.2038,0.615,0.8932,0.9664,0.0324,0.2038,3.6,1.024985,3,17,USA Austin
+Charles Leclerc,Ferrari,0.183,0.5982,0.8832,0.969,0.0288,0.183,3.67,1.023108,4,17,USA Austin
+Lando Norris,McLaren,0.0348,0.215,0.5846,0.896,0.0892,0.0348,6.33,0.99829,5,17,USA Austin
+Oscar Piastri,McLaren,0.0322,0.1742,0.517,0.877,0.0956,0.0322,6.75,0.994303,6,17,USA Austin
+Oliver Bearman,Haas,0.0008,0.009,0.0714,0.5928,0.1356,0.0008,10.79,0.951917,7,17,USA Austin
+Carlos Sainz,Williams,0.0006,0.011,0.0826,0.6552,0.1068,0.0006,10.09,0.955499,8,17,USA Austin
+Esteban Ocon,Haas,0.0006,0.005,0.0324,0.4644,0.1388,0.0006,11.8,0.941546,9,17,USA Austin
+Isak Hadjar,Red Bull Racing,0.0004,0.0048,0.0432,0.4772,0.1612,0.0004,11.81,0.943947,10,17,USA Austin
+Max Verstappen,Red Bull Racing,0.0,0.0038,0.0264,0.3844,0.1602,0.0,12.51,0.937089,11,17,USA Austin
+Liam Lawson,Racing Bulls,0.0,0.0002,0.002,0.0868,0.1674,0.0,15.49,0.904572,12,17,USA Austin
+Sergio Perez,Cadillac,0.0,0.0,0.0002,0.0348,0.184,0.0,16.65,0.889945,13,17,USA Austin
+Franco Colapinto,Alpine,0.0,0.0004,0.0118,0.2668,0.124,0.0,13.22,0.925932,14,17,USA Austin
+Pierre Gasly,Alpine,0.0,0.0056,0.0408,0.4952,0.1274,0.0,11.47,0.943614,15,17,USA Austin
+Arvid Lindblad,Racing Bulls,0.0,0.0,0.0024,0.118,0.1616,0.0,15.03,0.910018,16,17,USA Austin
+Gabriel Bortoleto,Audi,0.0,0.001,0.01,0.2364,0.2408,0.0,14.17,0.927048,17,17,USA Austin
+Alex Albon,Williams,0.0,0.0036,0.0258,0.4114,0.1136,0.0,11.99,0.937193,18,17,USA Austin
+Nico Hulkenberg,Audi,0.0,0.0002,0.0046,0.1554,0.2344,0.0,14.93,0.917624,19,17,USA Austin
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3966,0.0,19.57,0.79751,20,17,USA Austin
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.001,0.3966,0.0,18.99,0.848365,21,17,USA Austin
+Valtteri Bottas,Cadillac,0.0,0.0,0.0,0.0326,0.1834,0.0,16.68,0.889393,22,17,USA Austin
+George Russell,Mercedes,0.277,0.662,0.871,0.9452,0.0536,0.277,3.75,1.033542,1,18,Mexico
+Kimi Antonelli,Mercedes,0.2688,0.644,0.861,0.9382,0.061,0.2688,3.89,1.033068,2,18,Mexico
+Lewis Hamilton,Ferrari,0.1836,0.5716,0.8496,0.9638,0.032,0.1836,3.85,1.025057,3,18,Mexico
+Charles Leclerc,Ferrari,0.1644,0.5202,0.8134,0.9566,0.037,0.1644,4.15,1.021779,4,18,Mexico
+Oscar Piastri,McLaren,0.0556,0.284,0.613,0.8942,0.092,0.0556,6.11,1.006024,5,18,Mexico
+Lando Norris,McLaren,0.0476,0.2498,0.5728,0.8938,0.0896,0.0476,6.29,1.002021,6,18,Mexico
+Carlos Sainz,Williams,0.0008,0.0224,0.1102,0.6554,0.1154,0.0008,10.03,0.958441,7,18,Mexico
+Pierre Gasly,Alpine,0.0006,0.01,0.0588,0.5318,0.1336,0.0006,11.19,0.947783,8,18,Mexico
+Oliver Bearman,Haas,0.0006,0.011,0.0564,0.4946,0.1402,0.0006,11.53,0.944758,9,18,Mexico
+Isak Hadjar,Red Bull Racing,0.0004,0.0074,0.0496,0.484,0.172,0.0004,11.81,0.945671,10,18,Mexico
+Alex Albon,Williams,0.0004,0.006,0.0404,0.458,0.1032,0.0004,11.58,0.939855,11,18,Mexico
+Liam Lawson,Racing Bulls,0.0002,0.0006,0.0058,0.1714,0.1824,0.0002,14.54,0.914768,12,18,Mexico
+Max Verstappen,Red Bull Racing,0.0,0.0062,0.046,0.4796,0.1618,0.0,11.77,0.94473,13,18,Mexico
+Sergio Perez,Cadillac,0.0,0.0,0.0008,0.0394,0.1904,0.0,16.52,0.887219,14,18,Mexico
+Franco Colapinto,Alpine,0.0,0.0018,0.015,0.291,0.135,0.0,13.15,0.926642,15,18,Mexico
+Arvid Lindblad,Racing Bulls,0.0,0.0004,0.0076,0.1942,0.1746,0.0,14.22,0.918385,16,18,Mexico
+Gabriel Bortoleto,Audi,0.0,0.001,0.007,0.1596,0.2302,0.0,14.89,0.914954,17,18,Mexico
+Esteban Ocon,Haas,0.0,0.0014,0.0184,0.3156,0.1354,0.0,12.92,0.92901,18,18,Mexico
+Nico Hulkenberg,Audi,0.0,0.0002,0.0032,0.1084,0.237,0.0,15.53,0.906903,19,18,Mexico
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3898,0.0,19.45,0.796733,20,18,Mexico
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.002,0.4024,0.0,18.88,0.847576,21,18,Mexico
+Valtteri Bottas,Cadillac,0.0,0.0,0.0,0.0232,0.1904,0.0,16.94,0.880435,22,18,Mexico
+Kimi Antonelli,Mercedes,0.2648,0.651,0.8684,0.9354,0.064,0.2648,3.92,1.032274,1,19,Brazil
+George Russell,Mercedes,0.2622,0.6552,0.8648,0.932,0.067,0.2622,3.96,1.032631,2,19,Brazil
+Charles Leclerc,Ferrari,0.2108,0.6238,0.8818,0.9662,0.0324,0.2108,3.59,1.02751,3,19,Brazil
+Lewis Hamilton,Ferrari,0.173,0.5494,0.846,0.9594,0.0368,0.173,3.98,1.023248,4,19,Brazil
+Oscar Piastri,McLaren,0.0442,0.2508,0.599,0.897,0.0892,0.0442,6.17,1.002562,5,19,Brazil
+Lando Norris,McLaren,0.0424,0.2188,0.576,0.8968,0.0862,0.0424,6.29,1.000257,6,19,Brazil
+Pierre Gasly,Alpine,0.0016,0.0158,0.0758,0.5986,0.125,0.0016,10.63,0.953658,7,19,Brazil
+Oliver Bearman,Haas,0.0004,0.0092,0.0634,0.5632,0.1448,0.0004,11.02,0.951805,8,19,Brazil
+Carlos Sainz,Williams,0.0004,0.0074,0.0496,0.5104,0.1212,0.0004,11.28,0.946359,9,19,Brazil
+Franco Colapinto,Alpine,0.0002,0.0014,0.0244,0.3948,0.13,0.0002,12.25,0.937117,10,19,Brazil
+Max Verstappen,Red Bull Racing,0.0,0.002,0.018,0.3338,0.1624,0.0,12.93,0.933374,11,19,Brazil
+Sergio Perez,Cadillac,0.0,0.0,0.0014,0.0626,0.1906,0.0,16.0,0.89952,12,19,Brazil
+Arvid Lindblad,Racing Bulls,0.0,0.0004,0.0048,0.1454,0.1754,0.0,14.82,0.913138,13,19,Brazil
+Liam Lawson,Racing Bulls,0.0,0.0002,0.002,0.1252,0.1728,0.0,15.03,0.910807,14,19,Brazil
+Gabriel Bortoleto,Audi,0.0,0.0006,0.006,0.1676,0.247,0.0,14.83,0.919853,15,19,Brazil
+Esteban Ocon,Haas,0.0,0.007,0.0498,0.5068,0.1404,0.0,11.46,0.946444,16,19,Brazil
+Alex Albon,Williams,0.0,0.0046,0.043,0.5166,0.1148,0.0,11.26,0.945085,17,19,Brazil
+Isak Hadjar,Red Bull Racing,0.0,0.0024,0.0242,0.373,0.1676,0.0,12.67,0.936972,18,19,Brazil
+Nico Hulkenberg,Audi,0.0,0.0,0.0014,0.0796,0.2404,0.0,15.88,0.905395,19,19,Brazil
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.403,0.0,19.47,0.800727,20,19,Brazil
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.001,0.3932,0.0,18.95,0.847273,21,19,Brazil
+Valtteri Bottas,Cadillac,0.0,0.0,0.0002,0.0346,0.187,0.0,16.6,0.890141,22,19,Brazil
+George Russell,Mercedes,0.2948,0.6802,0.8756,0.9408,0.058,0.2948,3.73,1.023385,1,20,Las Vegas
+Kimi Antonelli,Mercedes,0.2582,0.6516,0.8596,0.945,0.0528,0.2582,3.8,1.020761,2,20,Las Vegas
+Charles Leclerc,Ferrari,0.1868,0.5586,0.8406,0.965,0.0292,0.1868,3.86,1.012991,3,20,Las Vegas
+Lewis Hamilton,Ferrari,0.1442,0.4944,0.7982,0.9554,0.0376,0.1442,4.29,1.00916,4,20,Las Vegas
+Oscar Piastri,McLaren,0.0638,0.298,0.6226,0.8904,0.0916,0.0638,6.09,0.997339,5,20,Las Vegas
+Lando Norris,McLaren,0.0458,0.2314,0.5414,0.8808,0.0896,0.0458,6.51,0.991324,6,20,Las Vegas
+Isak Hadjar,Red Bull Racing,0.0018,0.025,0.1016,0.6218,0.1622,0.0018,10.62,0.95514,7,20,Las Vegas
+Carlos Sainz,Williams,0.0014,0.0164,0.0822,0.585,0.1164,0.0014,10.63,0.949508,8,20,Las Vegas
+Pierre Gasly,Alpine,0.0012,0.0128,0.0722,0.534,0.1322,0.0012,11.14,0.946025,9,20,Las Vegas
+Alex Albon,Williams,0.0008,0.0068,0.0344,0.402,0.111,0.0008,12.07,0.935638,10,20,Las Vegas
+Max Verstappen,Red Bull Racing,0.0004,0.0062,0.0468,0.4342,0.168,0.0004,12.08,0.940633,11,20,Las Vegas
+Esteban Ocon,Haas,0.0004,0.0046,0.0348,0.3896,0.1382,0.0004,12.34,0.935401,12,20,Las Vegas
+Franco Colapinto,Alpine,0.0002,0.003,0.0196,0.3208,0.1332,0.0002,12.88,0.929855,13,20,Las Vegas
+Arvid Lindblad,Racing Bulls,0.0002,0.0026,0.016,0.2606,0.1672,0.0002,13.56,0.926108,14,20,Las Vegas
+Liam Lawson,Racing Bulls,0.0,0.0006,0.0082,0.1876,0.1668,0.0,14.27,0.918269,15,20,Las Vegas
+Sergio Perez,Cadillac,0.0,0.0002,0.0012,0.0466,0.1806,0.0,16.32,0.894711,16,20,Las Vegas
+Gabriel Bortoleto,Audi,0.0,0.0004,0.005,0.1086,0.2514,0.0,15.6,0.910647,17,20,Las Vegas
+Oliver Bearman,Haas,0.0,0.0068,0.037,0.4176,0.144,0.0,12.13,0.938564,18,20,Las Vegas
+Nico Hulkenberg,Audi,0.0,0.0004,0.003,0.0854,0.2352,0.0,15.8,0.906251,19,20,Las Vegas
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3842,0.0,19.49,0.798301,20,20,Las Vegas
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0,0.3876,0.0,19.06,0.840592,21,20,Las Vegas
+Valtteri Bottas,Cadillac,0.0,0.0,0.0,0.0288,0.1858,0.0,16.74,0.888195,22,20,Las Vegas
+George Russell,Mercedes,0.3156,0.7262,0.9046,0.9388,0.061,0.3156,3.56,1.05379,1,21,Qatar
+Kimi Antonelli,Mercedes,0.256,0.6676,0.8914,0.9418,0.0578,0.256,3.74,1.049333,2,21,Qatar
+Lewis Hamilton,Ferrari,0.188,0.6004,0.8904,0.964,0.0352,0.188,3.69,1.043343,3,21,Qatar
+Charles Leclerc,Ferrari,0.1666,0.5618,0.8778,0.9668,0.0318,0.1666,3.78,1.04059,4,21,Qatar
+Oscar Piastri,McLaren,0.0444,0.2332,0.6292,0.9014,0.0926,0.0444,6.08,1.020197,5,21,Qatar
+Lando Norris,McLaren,0.0276,0.185,0.5658,0.9016,0.0892,0.0276,6.33,1.015238,6,21,Qatar
+Isak Hadjar,Red Bull Racing,0.0006,0.0038,0.0332,0.5304,0.1634,0.0006,11.5,0.959704,7,21,Qatar
+Pierre Gasly,Alpine,0.0004,0.008,0.0674,0.6652,0.1336,0.0004,10.25,0.969887,8,21,Qatar
+Carlos Sainz,Williams,0.0004,0.0052,0.0406,0.5684,0.1128,0.0004,10.89,0.959967,9,21,Qatar
+Alex Albon,Williams,0.0002,0.0022,0.0252,0.5104,0.1088,0.0002,11.31,0.955575,10,21,Qatar
+Esteban Ocon,Haas,0.0002,0.0004,0.0078,0.297,0.1254,0.0002,12.89,0.940585,11,21,Qatar
+Max Verstappen,Red Bull Racing,0.0,0.0018,0.0238,0.4452,0.1634,0.0,12.07,0.953423,12,21,Qatar
+Liam Lawson,Racing Bulls,0.0,0.0002,0.0042,0.1898,0.1764,0.0,14.11,0.9328,13,21,Qatar
+Sergio Perez,Cadillac,0.0,0.0,0.0,0.0202,0.189,0.0,16.83,0.896508,14,21,Qatar
+Franco Colapinto,Alpine,0.0,0.0012,0.0112,0.3192,0.1408,0.0,12.85,0.942761,15,21,Qatar
+Arvid Lindblad,Racing Bulls,0.0,0.0002,0.0024,0.1214,0.1718,0.0,14.86,0.92345,16,21,Qatar
+Gabriel Bortoleto,Audi,0.0,0.0,0.0032,0.185,0.2508,0.0,14.65,0.933182,17,21,Qatar
+Oliver Bearman,Haas,0.0,0.0028,0.0206,0.4538,0.1436,0.0,11.89,0.953011,18,21,Qatar
+Nico Hulkenberg,Audi,0.0,0.0,0.001,0.0706,0.229,0.0,15.79,0.915819,19,21,Qatar
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.4,0.0,19.52,0.800645,20,21,Qatar
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0004,0.4084,0.0,19.07,0.850004,21,21,Qatar
+Valtteri Bottas,Cadillac,0.0,0.0,0.0002,0.0086,0.189,0.0,17.34,0.887047,22,21,Qatar
+George Russell,Mercedes,0.3206,0.712,0.8886,0.9388,0.0606,0.3206,3.61,1.042337,1,22,Abu Dhabi
+Kimi Antonelli,Mercedes,0.2618,0.6604,0.8806,0.9418,0.0562,0.2618,3.78,1.038165,2,22,Abu Dhabi
+Lewis Hamilton,Ferrari,0.1604,0.562,0.871,0.9686,0.03,0.1604,3.79,1.030182,3,22,Abu Dhabi
+Charles Leclerc,Ferrari,0.1552,0.5352,0.8562,0.9668,0.032,0.1552,3.93,1.028873,4,22,Abu Dhabi
+Oscar Piastri,McLaren,0.0628,0.2978,0.6692,0.9118,0.0826,0.0628,5.72,1.014631,5,22,Abu Dhabi
+Lando Norris,McLaren,0.0374,0.2076,0.5788,0.907,0.0814,0.0374,6.19,1.007821,6,22,Abu Dhabi
+Oliver Bearman,Haas,0.0008,0.0052,0.0428,0.5522,0.1304,0.0008,11.13,0.95554,7,22,Abu Dhabi
+Pierre Gasly,Alpine,0.0004,0.0042,0.0426,0.5668,0.1246,0.0004,10.98,0.956033,8,22,Abu Dhabi
+Max Verstappen,Red Bull Racing,0.0002,0.0022,0.0128,0.3126,0.1542,0.0002,13.11,0.938019,9,22,Abu Dhabi
+Alex Albon,Williams,0.0002,0.001,0.0154,0.345,0.0984,0.0002,12.38,0.940239,10,22,Abu Dhabi
+Carlos Sainz,Williams,0.0002,0.0044,0.0386,0.5608,0.0982,0.0002,10.81,0.954803,11,22,Abu Dhabi
+Sergio Perez,Cadillac,0.0,0.0,0.0008,0.0262,0.1748,0.0,16.74,0.89771,12,22,Abu Dhabi
+Franco Colapinto,Alpine,0.0,0.001,0.0174,0.4048,0.1264,0.0,12.18,0.944936,13,22,Abu Dhabi
+Arvid Lindblad,Racing Bulls,0.0,0.001,0.005,0.217,0.1644,0.0,13.86,0.931838,14,22,Abu Dhabi
+Liam Lawson,Racing Bulls,0.0,0.0,0.001,0.083,0.1598,0.0,15.47,0.913475,15,22,Abu Dhabi
+Gabriel Bortoleto,Audi,0.0,0.0002,0.0052,0.1886,0.2146,0.0,14.55,0.928814,16,22,Abu Dhabi
+Esteban Ocon,Haas,0.0,0.002,0.028,0.4592,0.1258,0.0,11.79,0.948429,17,22,Abu Dhabi
+Isak Hadjar,Red Bull Racing,0.0,0.0038,0.0452,0.5554,0.1562,0.0,11.24,0.957286,18,22,Abu Dhabi
+Nico Hulkenberg,Audi,0.0,0.0,0.0008,0.0816,0.218,0.0,15.72,0.915429,19,22,Abu Dhabi
+Lance Stroll,Aston Martin,0.0,0.0,0.0,0.0,0.3792,0.0,19.64,0.804407,20,22,Abu Dhabi
+Fernando Alonso,Aston Martin,0.0,0.0,0.0,0.0,0.378,0.0,19.2,0.847712,21,22,Abu Dhabi
+Valtteri Bottas,Cadillac,0.0,0.0,0.0,0.012,0.1676,0.0,17.2,0.888976,22,22,Abu Dhabi

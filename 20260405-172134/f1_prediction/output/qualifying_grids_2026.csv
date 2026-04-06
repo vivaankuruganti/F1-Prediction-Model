@@ -1,0 +1,485 @@
+driver,team,engine_supplier,quali_score,quali_pos,circuit,round,rain_flag,avg_temp,weather_variability
+George Russell,Mercedes,Mercedes,1.0,1.0,Australia,1,1.0,10.904166666666669,0.5
+Kimi Antonelli,Mercedes,Mercedes,0.5,2.0,Australia,1,1.0,10.904166666666669,0.5
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.3333333333333333,3.0,Australia,1,1.0,10.904166666666669,0.5
+Charles Leclerc,Ferrari,Ferrari,0.25,4.0,Australia,1,1.0,10.904166666666669,0.5
+Oscar Piastri,McLaren,Mercedes,0.2,5.0,Australia,1,1.0,10.904166666666669,0.5
+Lando Norris,McLaren,Mercedes,0.16666666666666666,6.0,Australia,1,1.0,10.904166666666669,0.5
+Lewis Hamilton,Ferrari,Ferrari,0.14285714285714285,7.0,Australia,1,1.0,10.904166666666669,0.5
+Liam Lawson,Racing Bulls,Red Bull Ford,0.125,8.0,Australia,1,1.0,10.904166666666669,0.5
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.1111111111111111,9.0,Australia,1,1.0,10.904166666666669,0.5
+Gabriel Bortoleto,Audi,Audi,0.1,10.0,Australia,1,1.0,10.904166666666669,0.5
+Nico Hulkenberg,Audi,Audi,0.09090909090909091,11.0,Australia,1,1.0,10.904166666666669,0.5
+Oliver Bearman,Haas,Ferrari,0.08333333333333333,12.0,Australia,1,1.0,10.904166666666669,0.5
+Esteban Ocon,Haas,Ferrari,0.07692307692307693,13.0,Australia,1,1.0,10.904166666666669,0.5
+Pierre Gasly,Alpine,Mercedes,0.07142857142857142,14.0,Australia,1,1.0,10.904166666666669,0.5
+Alex Albon,Williams,Mercedes,0.06666666666666667,15.0,Australia,1,1.0,10.904166666666669,0.5
+Franco Colapinto,Alpine,Mercedes,0.0625,16.0,Australia,1,1.0,10.904166666666669,0.5
+Fernando Alonso,Aston Martin,Honda,0.058823529411764705,17.0,Australia,1,1.0,10.904166666666669,0.5
+Sergio Perez,Cadillac,Ferrari,0.05555555555555555,18.0,Australia,1,1.0,10.904166666666669,0.5
+Valtteri Bottas,Cadillac,Ferrari,0.05263157894736842,19.0,Australia,1,1.0,10.904166666666669,0.5
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.05,20.0,Australia,1,1.0,10.904166666666669,0.5
+Carlos Sainz,Williams,Mercedes,0.047619047619047616,21.0,Australia,1,1.0,10.904166666666669,0.5
+Lance Stroll,Aston Martin,Honda,0.045454545454545456,22.0,Australia,1,1.0,10.904166666666669,0.5
+Charles Leclerc,Ferrari,Ferrari,1.0167707859366841,1.0,China,2,0.0,28.037500000000005,0.45
+Kimi Antonelli,Mercedes,Mercedes,0.9918879943728318,2.0,China,2,0.0,28.037500000000005,0.45
+George Russell,Mercedes,Mercedes,0.9756614051412684,3.0,China,2,0.0,28.037500000000005,0.45
+Oscar Piastri,McLaren,Mercedes,0.9482025918131836,4.0,China,2,0.0,28.037500000000005,0.45
+Lewis Hamilton,Ferrari,Ferrari,0.9264893616998773,5.0,China,2,0.0,28.037500000000005,0.45
+Esteban Ocon,Haas,Ferrari,0.9033880467464857,6.0,China,2,0.0,28.037500000000005,0.45
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8997166134942421,7.0,China,2,0.0,28.037500000000005,0.45
+Oliver Bearman,Haas,Ferrari,0.8980340244040633,8.0,China,2,0.0,28.037500000000005,0.45
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8826218616548455,9.0,China,2,0.0,28.037500000000005,0.45
+Lando Norris,McLaren,Mercedes,0.8769414827873998,10.0,China,2,0.0,28.037500000000005,0.45
+Franco Colapinto,Alpine,Mercedes,0.8732443148145925,11.0,China,2,0.0,28.037500000000005,0.45
+Carlos Sainz,Williams,Mercedes,0.847548297233224,12.0,China,2,0.0,28.037500000000005,0.45
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8454140354880977,13.0,China,2,0.0,28.037500000000005,0.45
+Alex Albon,Williams,Mercedes,0.840137199643865,14.0,China,2,0.0,28.037500000000005,0.45
+Nico Hulkenberg,Audi,Audi,0.8274329769849316,15.0,China,2,0.0,28.037500000000005,0.45
+Sergio Perez,Cadillac,Ferrari,0.8208294929338177,16.0,China,2,0.0,28.037500000000005,0.45
+Valtteri Bottas,Cadillac,Ferrari,0.8110493038153656,17.0,China,2,0.0,28.037500000000005,0.45
+Pierre Gasly,Alpine,Mercedes,0.8072997899902808,18.0,China,2,0.0,28.037500000000005,0.45
+Gabriel Bortoleto,Audi,Audi,0.798461351054157,19.0,China,2,0.0,28.037500000000005,0.45
+Liam Lawson,Racing Bulls,Red Bull Ford,0.7939732901977613,20.0,China,2,0.0,28.037500000000005,0.45
+Fernando Alonso,Aston Martin,Honda,0.78131189312026,21.0,China,2,0.0,28.037500000000005,0.45
+Lance Stroll,Aston Martin,Honda,0.7548402372009463,22.0,China,2,0.0,28.037500000000005,0.45
+Charles Leclerc,Ferrari,Ferrari,1.0418472927534737,1.0,Japan,3,1.0,24.425,0.55
+Kimi Antonelli,Mercedes,Mercedes,1.0097964509577013,2.0,Japan,3,1.0,24.425,0.55
+Oscar Piastri,McLaren,Mercedes,0.9953509696857862,3.0,Japan,3,1.0,24.425,0.55
+George Russell,Mercedes,Mercedes,0.9919103622914007,4.0,Japan,3,1.0,24.425,0.55
+Lando Norris,McLaren,Mercedes,0.9707729990177377,5.0,Japan,3,1.0,24.425,0.55
+Carlos Sainz,Williams,Mercedes,0.958489829590388,6.0,Japan,3,1.0,24.425,0.55
+Lewis Hamilton,Ferrari,Ferrari,0.9345669264838237,7.0,Japan,3,1.0,24.425,0.55
+Gabriel Bortoleto,Audi,Audi,0.9332043514194732,8.0,Japan,3,1.0,24.425,0.55
+Alex Albon,Williams,Mercedes,0.9275815181584797,9.0,Japan,3,1.0,24.425,0.55
+Esteban Ocon,Haas,Ferrari,0.9147789352202532,10.0,Japan,3,1.0,24.425,0.55
+Franco Colapinto,Alpine,Mercedes,0.9075533644650517,11.0,Japan,3,1.0,24.425,0.55
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.9035670757096901,12.0,Japan,3,1.0,24.425,0.55
+Oliver Bearman,Haas,Ferrari,0.9017919776408072,13.0,Japan,3,1.0,24.425,0.55
+Liam Lawson,Racing Bulls,Red Bull Ford,0.9004379676431848,14.0,Japan,3,1.0,24.425,0.55
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8888382415671788,15.0,Japan,3,1.0,24.425,0.55
+Nico Hulkenberg,Audi,Audi,0.8864210448976424,16.0,Japan,3,1.0,24.425,0.55
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8823865869110782,17.0,Japan,3,1.0,24.425,0.55
+Sergio Perez,Cadillac,Ferrari,0.8823558358812138,18.0,Japan,3,1.0,24.425,0.55
+Pierre Gasly,Alpine,Mercedes,0.8733166049285322,19.0,Japan,3,1.0,24.425,0.55
+Fernando Alonso,Aston Martin,Honda,0.8577926434821765,20.0,Japan,3,1.0,24.425,0.55
+Lance Stroll,Aston Martin,Honda,0.8413023713190911,21.0,Japan,3,1.0,24.425,0.55
+Valtteri Bottas,Cadillac,Ferrari,0.8362882763211672,22.0,Japan,3,1.0,24.425,0.55
+Charles Leclerc,Ferrari,Ferrari,1.0037849056708243,1.0,Miami,4,1.0,26.570833333333336,0.65
+Lewis Hamilton,Ferrari,Ferrari,1.0016240501505824,2.0,Miami,4,1.0,26.570833333333336,0.65
+Oscar Piastri,McLaren,Mercedes,0.9779138987842947,3.0,Miami,4,1.0,26.570833333333336,0.65
+Lando Norris,McLaren,Mercedes,0.9684694905791243,4.0,Miami,4,1.0,26.570833333333336,0.65
+Kimi Antonelli,Mercedes,Mercedes,0.9653814090041444,5.0,Miami,4,1.0,26.570833333333336,0.65
+George Russell,Mercedes,Mercedes,0.9487034220221323,6.0,Miami,4,1.0,26.570833333333336,0.65
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.9415690687514517,7.0,Miami,4,1.0,26.570833333333336,0.65
+Esteban Ocon,Haas,Ferrari,0.9192097285863566,8.0,Miami,4,1.0,26.570833333333336,0.65
+Carlos Sainz,Williams,Mercedes,0.9180934468939322,9.0,Miami,4,1.0,26.570833333333336,0.65
+Alex Albon,Williams,Mercedes,0.9045359420479739,10.0,Miami,4,1.0,26.570833333333336,0.65
+Nico Hulkenberg,Audi,Audi,0.8950150902249956,11.0,Miami,4,1.0,26.570833333333336,0.65
+Pierre Gasly,Alpine,Mercedes,0.8880430714022106,12.0,Miami,4,1.0,26.570833333333336,0.65
+Franco Colapinto,Alpine,Mercedes,0.8807154479824768,13.0,Miami,4,1.0,26.570833333333336,0.65
+Gabriel Bortoleto,Audi,Audi,0.8780580158664211,14.0,Miami,4,1.0,26.570833333333336,0.65
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8759236075296502,15.0,Miami,4,1.0,26.570833333333336,0.65
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.86834377597121,16.0,Miami,4,1.0,26.570833333333336,0.65
+Oliver Bearman,Haas,Ferrari,0.8587610324011592,17.0,Miami,4,1.0,26.570833333333336,0.65
+Sergio Perez,Cadillac,Ferrari,0.8470330112209984,18.0,Miami,4,1.0,26.570833333333336,0.65
+Valtteri Bottas,Cadillac,Ferrari,0.8330581948238257,19.0,Miami,4,1.0,26.570833333333336,0.65
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8326443159841703,20.0,Miami,4,1.0,26.570833333333336,0.65
+Lance Stroll,Aston Martin,Honda,0.8216383015980626,21.0,Miami,4,1.0,26.570833333333336,0.65
+Fernando Alonso,Aston Martin,Honda,0.7620922218740809,22.0,Miami,4,1.0,26.570833333333336,0.65
+Lewis Hamilton,Ferrari,Ferrari,0.9450914708539496,1.0,Canada,5,0.0,22.6375,0.55
+Kimi Antonelli,Mercedes,Mercedes,0.9300518187675134,2.0,Canada,5,0.0,22.6375,0.55
+Lando Norris,McLaren,Mercedes,0.9187969182327989,3.0,Canada,5,0.0,22.6375,0.55
+Charles Leclerc,Ferrari,Ferrari,0.9183234662997767,4.0,Canada,5,0.0,22.6375,0.55
+George Russell,Mercedes,Mercedes,0.9071473060766904,5.0,Canada,5,0.0,22.6375,0.55
+Carlos Sainz,Williams,Mercedes,0.8926217763239156,6.0,Canada,5,0.0,22.6375,0.55
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8916309618242235,7.0,Canada,5,0.0,22.6375,0.55
+Oscar Piastri,McLaren,Mercedes,0.8806872653414651,8.0,Canada,5,0.0,22.6375,0.55
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8768706725956669,9.0,Canada,5,0.0,22.6375,0.55
+Alex Albon,Williams,Mercedes,0.8752313841636921,10.0,Canada,5,0.0,22.6375,0.55
+Oliver Bearman,Haas,Ferrari,0.861951513514289,11.0,Canada,5,0.0,22.6375,0.55
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8602239855836071,12.0,Canada,5,0.0,22.6375,0.55
+Gabriel Bortoleto,Audi,Audi,0.8519967266744943,13.0,Canada,5,0.0,22.6375,0.55
+Pierre Gasly,Alpine,Mercedes,0.8461298618768903,14.0,Canada,5,0.0,22.6375,0.55
+Esteban Ocon,Haas,Ferrari,0.8406208525468329,15.0,Canada,5,0.0,22.6375,0.55
+Fernando Alonso,Aston Martin,Honda,0.8306598865420897,16.0,Canada,5,0.0,22.6375,0.55
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8196860950542892,17.0,Canada,5,0.0,22.6375,0.55
+Nico Hulkenberg,Audi,Audi,0.8178048066578505,18.0,Canada,5,0.0,22.6375,0.55
+Franco Colapinto,Alpine,Mercedes,0.815268417440468,19.0,Canada,5,0.0,22.6375,0.55
+Lance Stroll,Aston Martin,Honda,0.8050232726374899,20.0,Canada,5,0.0,22.6375,0.55
+Sergio Perez,Cadillac,Ferrari,0.7918624723814133,21.0,Canada,5,0.0,22.6375,0.55
+Valtteri Bottas,Cadillac,Ferrari,0.7738897633427212,22.0,Canada,5,0.0,22.6375,0.55
+Charles Leclerc,Ferrari,Ferrari,0.9883468464360236,1.0,Monaco,6,0.0,23.004166666666663,0.4
+Lewis Hamilton,Ferrari,Ferrari,0.9417979031176935,2.0,Monaco,6,0.0,23.004166666666663,0.4
+George Russell,Mercedes,Mercedes,0.9392694394636325,3.0,Monaco,6,0.0,23.004166666666663,0.4
+Oscar Piastri,McLaren,Mercedes,0.9339088068060896,4.0,Monaco,6,0.0,23.004166666666663,0.4
+Kimi Antonelli,Mercedes,Mercedes,0.9077177702461471,5.0,Monaco,6,0.0,23.004166666666663,0.4
+Oliver Bearman,Haas,Ferrari,0.8977320014250217,6.0,Monaco,6,0.0,23.004166666666663,0.4
+Pierre Gasly,Alpine,Mercedes,0.8966120423151187,7.0,Monaco,6,0.0,23.004166666666663,0.4
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8872589803533456,8.0,Monaco,6,0.0,23.004166666666663,0.4
+Lando Norris,McLaren,Mercedes,0.8804280148838032,9.0,Monaco,6,0.0,23.004166666666663,0.4
+Sergio Perez,Cadillac,Ferrari,0.8761346751616197,10.0,Monaco,6,0.0,23.004166666666663,0.4
+Esteban Ocon,Haas,Ferrari,0.8665636619663771,11.0,Monaco,6,0.0,23.004166666666663,0.4
+Alex Albon,Williams,Mercedes,0.8644379429146514,12.0,Monaco,6,0.0,23.004166666666663,0.4
+Fernando Alonso,Aston Martin,Honda,0.8481739806178606,13.0,Monaco,6,0.0,23.004166666666663,0.4
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8453247168124693,14.0,Monaco,6,0.0,23.004166666666663,0.4
+Franco Colapinto,Alpine,Mercedes,0.842315499951618,15.0,Monaco,6,0.0,23.004166666666663,0.4
+Gabriel Bortoleto,Audi,Audi,0.8375866579825708,16.0,Monaco,6,0.0,23.004166666666663,0.4
+Carlos Sainz,Williams,Mercedes,0.8372697480545745,17.0,Monaco,6,0.0,23.004166666666663,0.4
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8289739706911562,18.0,Monaco,6,0.0,23.004166666666663,0.4
+Valtteri Bottas,Cadillac,Ferrari,0.8121508489582628,19.0,Monaco,6,0.0,23.004166666666663,0.4
+Nico Hulkenberg,Audi,Audi,0.8014376754179647,20.0,Monaco,6,0.0,23.004166666666663,0.4
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8003763247361162,21.0,Monaco,6,0.0,23.004166666666663,0.4
+Lance Stroll,Aston Martin,Honda,0.7960469803861389,22.0,Monaco,6,0.0,23.004166666666663,0.4
+Oscar Piastri,McLaren,Mercedes,0.970805918693918,1.0,Spain,7,0.0,22.03749999999999,0.35
+Charles Leclerc,Ferrari,Ferrari,0.9661861088921192,2.0,Spain,7,0.0,22.03749999999999,0.35
+Kimi Antonelli,Mercedes,Mercedes,0.9538616791668405,3.0,Spain,7,0.0,22.03749999999999,0.35
+George Russell,Mercedes,Mercedes,0.932802501721372,4.0,Spain,7,0.0,22.03749999999999,0.35
+Lando Norris,McLaren,Mercedes,0.9159362585633885,5.0,Spain,7,0.0,22.03749999999999,0.35
+Lewis Hamilton,Ferrari,Ferrari,0.9115883759407116,6.0,Spain,7,0.0,22.03749999999999,0.35
+Pierre Gasly,Alpine,Mercedes,0.8893588594129189,7.0,Spain,7,0.0,22.03749999999999,0.35
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8871763861329575,8.0,Spain,7,0.0,22.03749999999999,0.35
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8786178385078223,9.0,Spain,7,0.0,22.03749999999999,0.35
+Alex Albon,Williams,Mercedes,0.8763982254216222,10.0,Spain,7,0.0,22.03749999999999,0.35
+Carlos Sainz,Williams,Mercedes,0.867047521786837,11.0,Spain,7,0.0,22.03749999999999,0.35
+Oliver Bearman,Haas,Ferrari,0.8665536872070875,12.0,Spain,7,0.0,22.03749999999999,0.35
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8606549371959499,13.0,Spain,7,0.0,22.03749999999999,0.35
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8569463484851079,14.0,Spain,7,0.0,22.03749999999999,0.35
+Gabriel Bortoleto,Audi,Audi,0.8560807465034806,15.0,Spain,7,0.0,22.03749999999999,0.35
+Esteban Ocon,Haas,Ferrari,0.8548153988152076,16.0,Spain,7,0.0,22.03749999999999,0.35
+Valtteri Bottas,Cadillac,Ferrari,0.8414998122895565,17.0,Spain,7,0.0,22.03749999999999,0.35
+Nico Hulkenberg,Audi,Audi,0.8388457460184573,18.0,Spain,7,0.0,22.03749999999999,0.35
+Sergio Perez,Cadillac,Ferrari,0.8286422046177824,19.0,Spain,7,0.0,22.03749999999999,0.35
+Franco Colapinto,Alpine,Mercedes,0.826503324042609,20.0,Spain,7,0.0,22.03749999999999,0.35
+Fernando Alonso,Aston Martin,Honda,0.8059213612206158,21.0,Spain,7,0.0,22.03749999999999,0.35
+Lance Stroll,Aston Martin,Honda,0.7910496872674893,22.0,Spain,7,0.0,22.03749999999999,0.35
+Kimi Antonelli,Mercedes,Mercedes,1.021270323453967,1.0,Austria,8,1.0,16.841666666666665,0.5
+George Russell,Mercedes,Mercedes,0.9982112262493372,2.0,Austria,8,1.0,16.841666666666665,0.5
+Lewis Hamilton,Ferrari,Ferrari,0.9897438201013631,3.0,Austria,8,1.0,16.841666666666665,0.5
+Oscar Piastri,McLaren,Mercedes,0.9814155033866209,4.0,Austria,8,1.0,16.841666666666665,0.5
+Lando Norris,McLaren,Mercedes,0.9599741710780354,5.0,Austria,8,1.0,16.841666666666665,0.5
+Oliver Bearman,Haas,Ferrari,0.9528037816698646,6.0,Austria,8,1.0,16.841666666666665,0.5
+Charles Leclerc,Ferrari,Ferrari,0.9526234942974983,7.0,Austria,8,1.0,16.841666666666665,0.5
+Carlos Sainz,Williams,Mercedes,0.9271088714857337,8.0,Austria,8,1.0,16.841666666666665,0.5
+Pierre Gasly,Alpine,Mercedes,0.9250867149894634,9.0,Austria,8,1.0,16.841666666666665,0.5
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.9143901397626797,10.0,Austria,8,1.0,16.841666666666665,0.5
+Nico Hulkenberg,Audi,Audi,0.9068687255564847,11.0,Austria,8,1.0,16.841666666666665,0.5
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.9059327669055095,12.0,Austria,8,1.0,16.841666666666665,0.5
+Franco Colapinto,Alpine,Mercedes,0.896118025812412,13.0,Austria,8,1.0,16.841666666666665,0.5
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8902182936629228,14.0,Austria,8,1.0,16.841666666666665,0.5
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.884171420619863,15.0,Austria,8,1.0,16.841666666666665,0.5
+Alex Albon,Williams,Mercedes,0.8831761536298758,16.0,Austria,8,1.0,16.841666666666665,0.5
+Esteban Ocon,Haas,Ferrari,0.8824708742597002,17.0,Austria,8,1.0,16.841666666666665,0.5
+Gabriel Bortoleto,Audi,Audi,0.8685908648824953,18.0,Austria,8,1.0,16.841666666666665,0.5
+Valtteri Bottas,Cadillac,Ferrari,0.8511301000740655,19.0,Austria,8,1.0,16.841666666666665,0.5
+Sergio Perez,Cadillac,Ferrari,0.8476703863256109,20.0,Austria,8,1.0,16.841666666666665,0.5
+Lance Stroll,Aston Martin,Honda,0.8205488978212879,21.0,Austria,8,1.0,16.841666666666665,0.5
+Fernando Alonso,Aston Martin,Honda,0.7801906029189934,22.0,Austria,8,1.0,16.841666666666665,0.5
+George Russell,Mercedes,Mercedes,0.9967992548404655,1.0,Great Britain,9,0.0,25.0,0.7
+Lewis Hamilton,Ferrari,Ferrari,0.9708508457027402,2.0,Great Britain,9,0.0,25.0,0.7
+Lando Norris,McLaren,Mercedes,0.9496036916409767,3.0,Great Britain,9,0.0,25.0,0.7
+Oscar Piastri,McLaren,Mercedes,0.9435476663024849,4.0,Great Britain,9,0.0,25.0,0.7
+Alex Albon,Williams,Mercedes,0.9388292717746406,5.0,Great Britain,9,0.0,25.0,0.7
+Charles Leclerc,Ferrari,Ferrari,0.9308375025759112,6.0,Great Britain,9,0.0,25.0,0.7
+Kimi Antonelli,Mercedes,Mercedes,0.9259723161570403,7.0,Great Britain,9,0.0,25.0,0.7
+Pierre Gasly,Alpine,Mercedes,0.9042255057653988,8.0,Great Britain,9,0.0,25.0,0.7
+Esteban Ocon,Haas,Ferrari,0.8997802787409079,9.0,Great Britain,9,0.0,25.0,0.7
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8913780453949928,10.0,Great Britain,9,0.0,25.0,0.7
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8717570828978549,11.0,Great Britain,9,0.0,25.0,0.7
+Franco Colapinto,Alpine,Mercedes,0.8597997173915483,12.0,Great Britain,9,0.0,25.0,0.7
+Sergio Perez,Cadillac,Ferrari,0.8479751980584165,13.0,Great Britain,9,0.0,25.0,0.7
+Carlos Sainz,Williams,Mercedes,0.8450725046739702,14.0,Great Britain,9,0.0,25.0,0.7
+Oliver Bearman,Haas,Ferrari,0.8435501366795767,15.0,Great Britain,9,0.0,25.0,0.7
+Valtteri Bottas,Cadillac,Ferrari,0.842199327740037,16.0,Great Britain,9,0.0,25.0,0.7
+Gabriel Bortoleto,Audi,Audi,0.8295233901567348,17.0,Great Britain,9,0.0,25.0,0.7
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8249061464753488,18.0,Great Britain,9,0.0,25.0,0.7
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8010430136092449,19.0,Great Britain,9,0.0,25.0,0.7
+Nico Hulkenberg,Audi,Audi,0.7968972039871561,20.0,Great Britain,9,0.0,25.0,0.7
+Fernando Alonso,Aston Martin,Honda,0.7949376066427466,21.0,Great Britain,9,0.0,25.0,0.7
+Lance Stroll,Aston Martin,Honda,0.7748962264993028,22.0,Great Britain,9,0.0,25.0,0.7
+George Russell,Mercedes,Mercedes,0.9472601194184023,1.0,Belgium,10,0.0,15.591666666666669,0.7
+Oscar Piastri,McLaren,Mercedes,0.9464083120043012,2.0,Belgium,10,0.0,15.591666666666669,0.7
+Kimi Antonelli,Mercedes,Mercedes,0.9414518630055017,3.0,Belgium,10,0.0,15.591666666666669,0.7
+Oliver Bearman,Haas,Ferrari,0.9241764605224173,4.0,Belgium,10,0.0,15.591666666666669,0.7
+Lando Norris,McLaren,Mercedes,0.9151514031777929,5.0,Belgium,10,0.0,15.591666666666669,0.7
+Charles Leclerc,Ferrari,Ferrari,0.9133212073959861,6.0,Belgium,10,0.0,15.591666666666669,0.7
+Lewis Hamilton,Ferrari,Ferrari,0.9090547361464911,7.0,Belgium,10,0.0,15.591666666666669,0.7
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.9077280277922333,8.0,Belgium,10,0.0,15.591666666666669,0.7
+Carlos Sainz,Williams,Mercedes,0.9075591142869006,9.0,Belgium,10,0.0,15.591666666666669,0.7
+Gabriel Bortoleto,Audi,Audi,0.9007829078575844,10.0,Belgium,10,0.0,15.591666666666669,0.7
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.89011047314514,11.0,Belgium,10,0.0,15.591666666666669,0.7
+Nico Hulkenberg,Audi,Audi,0.8897708153640663,12.0,Belgium,10,0.0,15.591666666666669,0.7
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8746629074788094,13.0,Belgium,10,0.0,15.591666666666669,0.7
+Esteban Ocon,Haas,Ferrari,0.873840882962258,14.0,Belgium,10,0.0,15.591666666666669,0.7
+Pierre Gasly,Alpine,Mercedes,0.8733871601859531,15.0,Belgium,10,0.0,15.591666666666669,0.7
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8635786914485487,16.0,Belgium,10,0.0,15.591666666666669,0.7
+Alex Albon,Williams,Mercedes,0.8626375306100911,17.0,Belgium,10,0.0,15.591666666666669,0.7
+Franco Colapinto,Alpine,Mercedes,0.8557052162466021,18.0,Belgium,10,0.0,15.591666666666669,0.7
+Valtteri Bottas,Cadillac,Ferrari,0.8265780135910066,19.0,Belgium,10,0.0,15.591666666666669,0.7
+Fernando Alonso,Aston Martin,Honda,0.8151615218758522,20.0,Belgium,10,0.0,15.591666666666669,0.7
+Lance Stroll,Aston Martin,Honda,0.8068254136075675,21.0,Belgium,10,0.0,15.591666666666669,0.7
+Sergio Perez,Cadillac,Ferrari,0.7671740597365085,22.0,Belgium,10,0.0,15.591666666666669,0.7
+Oscar Piastri,McLaren,Mercedes,1.0111359569226828,1.0,Hungary,11,0.0,23.008333333333336,0.45
+George Russell,Mercedes,Mercedes,0.9900411860167723,2.0,Hungary,11,0.0,23.008333333333336,0.45
+Lando Norris,McLaren,Mercedes,0.961446219266755,3.0,Hungary,11,0.0,23.008333333333336,0.45
+Charles Leclerc,Ferrari,Ferrari,0.9549889992154067,4.0,Hungary,11,0.0,23.008333333333336,0.45
+Kimi Antonelli,Mercedes,Mercedes,0.9520762798399136,5.0,Hungary,11,0.0,23.008333333333336,0.45
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.9439699688039551,6.0,Hungary,11,0.0,23.008333333333336,0.45
+Pierre Gasly,Alpine,Mercedes,0.9339302742482234,7.0,Hungary,11,0.0,23.008333333333336,0.45
+Lewis Hamilton,Ferrari,Ferrari,0.9091406020072064,8.0,Hungary,11,0.0,23.008333333333336,0.45
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8992584887194343,9.0,Hungary,11,0.0,23.008333333333336,0.45
+Carlos Sainz,Williams,Mercedes,0.8990514992022623,10.0,Hungary,11,0.0,23.008333333333336,0.45
+Oliver Bearman,Haas,Ferrari,0.8969235046037534,11.0,Hungary,11,0.0,23.008333333333336,0.45
+Alex Albon,Williams,Mercedes,0.8873438461388529,12.0,Hungary,11,0.0,23.008333333333336,0.45
+Franco Colapinto,Alpine,Mercedes,0.8827550359868929,13.0,Hungary,11,0.0,23.008333333333336,0.45
+Gabriel Bortoleto,Audi,Audi,0.879563450122403,14.0,Hungary,11,0.0,23.008333333333336,0.45
+Esteban Ocon,Haas,Ferrari,0.8610530196492175,15.0,Hungary,11,0.0,23.008333333333336,0.45
+Sergio Perez,Cadillac,Ferrari,0.8456666684833665,16.0,Hungary,11,0.0,23.008333333333336,0.45
+Valtteri Bottas,Cadillac,Ferrari,0.832614119755317,17.0,Hungary,11,0.0,23.008333333333336,0.45
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8290022324041625,18.0,Hungary,11,0.0,23.008333333333336,0.45
+Nico Hulkenberg,Audi,Audi,0.8259453673127133,19.0,Hungary,11,0.0,23.008333333333336,0.45
+Fernando Alonso,Aston Martin,Honda,0.8252112507600167,20.0,Hungary,11,0.0,23.008333333333336,0.45
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8216942741550568,21.0,Hungary,11,0.0,23.008333333333336,0.45
+Lance Stroll,Aston Martin,Honda,0.7545864296845999,22.0,Hungary,11,0.0,23.008333333333336,0.45
+Lewis Hamilton,Ferrari,Ferrari,1.0610901400783153,1.0,Netherlands,12,1.0,17.554166666666664,0.55
+George Russell,Mercedes,Mercedes,1.013040662051242,2.0,Netherlands,12,1.0,17.554166666666664,0.55
+Charles Leclerc,Ferrari,Ferrari,0.9908376187803806,3.0,Netherlands,12,1.0,17.554166666666664,0.55
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.9879172102307742,4.0,Netherlands,12,1.0,17.554166666666664,0.55
+Kimi Antonelli,Mercedes,Mercedes,0.9755174461196975,5.0,Netherlands,12,1.0,17.554166666666664,0.55
+Oliver Bearman,Haas,Ferrari,0.9653188228297164,6.0,Netherlands,12,1.0,17.554166666666664,0.55
+Oscar Piastri,McLaren,Mercedes,0.9626120879495988,7.0,Netherlands,12,1.0,17.554166666666664,0.55
+Pierre Gasly,Alpine,Mercedes,0.9499835565626048,8.0,Netherlands,12,1.0,17.554166666666664,0.55
+Carlos Sainz,Williams,Mercedes,0.9466343695859165,9.0,Netherlands,12,1.0,17.554166666666664,0.55
+Esteban Ocon,Haas,Ferrari,0.9374344853226293,10.0,Netherlands,12,1.0,17.554166666666664,0.55
+Gabriel Bortoleto,Audi,Audi,0.9303521299130146,11.0,Netherlands,12,1.0,17.554166666666664,0.55
+Lando Norris,McLaren,Mercedes,0.9298891225753465,12.0,Netherlands,12,1.0,17.554166666666664,0.55
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.9227422250757936,13.0,Netherlands,12,1.0,17.554166666666664,0.55
+Alex Albon,Williams,Mercedes,0.920340642411522,14.0,Netherlands,12,1.0,17.554166666666664,0.55
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8948664894244386,15.0,Netherlands,12,1.0,17.554166666666664,0.55
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8867661005667097,16.0,Netherlands,12,1.0,17.554166666666664,0.55
+Franco Colapinto,Alpine,Mercedes,0.8791374199235573,17.0,Netherlands,12,1.0,17.554166666666664,0.55
+Valtteri Bottas,Cadillac,Ferrari,0.87108361485029,18.0,Netherlands,12,1.0,17.554166666666664,0.55
+Nico Hulkenberg,Audi,Audi,0.8657662958569812,19.0,Netherlands,12,1.0,17.554166666666664,0.55
+Fernando Alonso,Aston Martin,Honda,0.8647889474683152,20.0,Netherlands,12,1.0,17.554166666666664,0.55
+Sergio Perez,Cadillac,Ferrari,0.8595293705571059,21.0,Netherlands,12,1.0,17.554166666666664,0.55
+Lance Stroll,Aston Martin,Honda,0.8476806246494591,22.0,Netherlands,12,1.0,17.554166666666664,0.55
+George Russell,Mercedes,Mercedes,0.9673443118354542,1.0,Italy,13,0.0,25.0,0.3
+Lando Norris,McLaren,Mercedes,0.9597347321823411,2.0,Italy,13,0.0,25.0,0.3
+Kimi Antonelli,Mercedes,Mercedes,0.957066228485509,3.0,Italy,13,0.0,25.0,0.3
+Charles Leclerc,Ferrari,Ferrari,0.9515138446707507,4.0,Italy,13,0.0,25.0,0.3
+Lewis Hamilton,Ferrari,Ferrari,0.9387351007964324,5.0,Italy,13,0.0,25.0,0.3
+Pierre Gasly,Alpine,Mercedes,0.9374852343011948,6.0,Italy,13,0.0,25.0,0.3
+Esteban Ocon,Haas,Ferrari,0.9089055890277202,7.0,Italy,13,0.0,25.0,0.3
+Oscar Piastri,McLaren,Mercedes,0.9017145849787586,8.0,Italy,13,0.0,25.0,0.3
+Alex Albon,Williams,Mercedes,0.8984384489425669,9.0,Italy,13,0.0,25.0,0.3
+Oliver Bearman,Haas,Ferrari,0.8828545389735615,10.0,Italy,13,0.0,25.0,0.3
+Valtteri Bottas,Cadillac,Ferrari,0.8667389473729114,11.0,Italy,13,0.0,25.0,0.3
+Franco Colapinto,Alpine,Mercedes,0.8660143122658678,12.0,Italy,13,0.0,25.0,0.3
+Gabriel Bortoleto,Audi,Audi,0.8595125812253824,13.0,Italy,13,0.0,25.0,0.3
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8514630386585154,14.0,Italy,13,0.0,25.0,0.3
+Carlos Sainz,Williams,Mercedes,0.8494817276578842,15.0,Italy,13,0.0,25.0,0.3
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8486848589418676,16.0,Italy,13,0.0,25.0,0.3
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8426153410943703,17.0,Italy,13,0.0,25.0,0.3
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8392193263264389,18.0,Italy,13,0.0,25.0,0.3
+Nico Hulkenberg,Audi,Audi,0.8366070189612989,19.0,Italy,13,0.0,25.0,0.3
+Sergio Perez,Cadillac,Ferrari,0.8300197928672599,20.0,Italy,13,0.0,25.0,0.3
+Fernando Alonso,Aston Martin,Honda,0.8105091392887404,21.0,Italy,13,0.0,25.0,0.3
+Lance Stroll,Aston Martin,Honda,0.7458447300714321,22.0,Italy,13,0.0,25.0,0.3
+Kimi Antonelli,Mercedes,Mercedes,0.9616189472189821,1.0,Madrid,14,0.0,25.466666666666665,0.4
+Charles Leclerc,Ferrari,Ferrari,0.9562808649505111,2.0,Madrid,14,0.0,25.466666666666665,0.4
+George Russell,Mercedes,Mercedes,0.9546155727636156,3.0,Madrid,14,0.0,25.466666666666665,0.4
+Lando Norris,McLaren,Mercedes,0.9419793592509093,4.0,Madrid,14,0.0,25.466666666666665,0.4
+Oliver Bearman,Haas,Ferrari,0.9209779940798651,5.0,Madrid,14,0.0,25.466666666666665,0.4
+Lewis Hamilton,Ferrari,Ferrari,0.9162439528875287,6.0,Madrid,14,0.0,25.466666666666665,0.4
+Oscar Piastri,McLaren,Mercedes,0.8992082665757186,7.0,Madrid,14,0.0,25.466666666666665,0.4
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8983263554202366,8.0,Madrid,14,0.0,25.466666666666665,0.4
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8891841496769799,9.0,Madrid,14,0.0,25.466666666666665,0.4
+Nico Hulkenberg,Audi,Audi,0.8867390232671865,10.0,Madrid,14,0.0,25.466666666666665,0.4
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.875072653032708,11.0,Madrid,14,0.0,25.466666666666665,0.4
+Carlos Sainz,Williams,Mercedes,0.8726471330949596,12.0,Madrid,14,0.0,25.466666666666665,0.4
+Esteban Ocon,Haas,Ferrari,0.8716167117194632,13.0,Madrid,14,0.0,25.466666666666665,0.4
+Pierre Gasly,Alpine,Mercedes,0.8707686929197538,14.0,Madrid,14,0.0,25.466666666666665,0.4
+Gabriel Bortoleto,Audi,Audi,0.8697273695531685,15.0,Madrid,14,0.0,25.466666666666665,0.4
+Franco Colapinto,Alpine,Mercedes,0.8672666613317916,16.0,Madrid,14,0.0,25.466666666666665,0.4
+Alex Albon,Williams,Mercedes,0.8553277902277849,17.0,Madrid,14,0.0,25.466666666666665,0.4
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8458816773285955,18.0,Madrid,14,0.0,25.466666666666665,0.4
+Valtteri Bottas,Cadillac,Ferrari,0.8324254914933064,19.0,Madrid,14,0.0,25.466666666666665,0.4
+Fernando Alonso,Aston Martin,Honda,0.8273479282230578,20.0,Madrid,14,0.0,25.466666666666665,0.4
+Sergio Perez,Cadillac,Ferrari,0.8241014753828112,21.0,Madrid,14,0.0,25.466666666666665,0.4
+Lance Stroll,Aston Martin,Honda,0.7792205913438874,22.0,Madrid,14,0.0,25.466666666666665,0.4
+George Russell,Mercedes,Mercedes,0.9720035378117656,1.0,Azerbaijan,15,0.0,25.0,0.45
+Alex Albon,Williams,Mercedes,0.9320767888111029,2.0,Azerbaijan,15,0.0,25.0,0.45
+Carlos Sainz,Williams,Mercedes,0.9295683501689704,3.0,Azerbaijan,15,0.0,25.0,0.45
+Kimi Antonelli,Mercedes,Mercedes,0.9235743308567123,4.0,Azerbaijan,15,0.0,25.0,0.45
+Charles Leclerc,Ferrari,Ferrari,0.9083353327566388,5.0,Azerbaijan,15,0.0,25.0,0.45
+Oscar Piastri,McLaren,Mercedes,0.8931943295886442,6.0,Azerbaijan,15,0.0,25.0,0.45
+Gabriel Bortoleto,Audi,Audi,0.8755952425606154,7.0,Azerbaijan,15,0.0,25.0,0.45
+Sergio Perez,Cadillac,Ferrari,0.8749985612817436,8.0,Azerbaijan,15,0.0,25.0,0.45
+Lewis Hamilton,Ferrari,Ferrari,0.867302598872469,9.0,Azerbaijan,15,0.0,25.0,0.45
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8572983315573126,10.0,Azerbaijan,15,0.0,25.0,0.45
+Fernando Alonso,Aston Martin,Honda,0.8545338881920256,11.0,Azerbaijan,15,0.0,25.0,0.45
+Lando Norris,McLaren,Mercedes,0.8532345301251368,12.0,Azerbaijan,15,0.0,25.0,0.45
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8398036206693913,13.0,Azerbaijan,15,0.0,25.0,0.45
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8383226932970496,14.0,Azerbaijan,15,0.0,25.0,0.45
+Nico Hulkenberg,Audi,Audi,0.8361812860560858,15.0,Azerbaijan,15,0.0,25.0,0.45
+Esteban Ocon,Haas,Ferrari,0.8353743103208695,16.0,Azerbaijan,15,0.0,25.0,0.45
+Lance Stroll,Aston Martin,Honda,0.8258008152533572,17.0,Azerbaijan,15,0.0,25.0,0.45
+Oliver Bearman,Haas,Ferrari,0.8244210924300582,18.0,Azerbaijan,15,0.0,25.0,0.45
+Valtteri Bottas,Cadillac,Ferrari,0.8088906042761705,19.0,Azerbaijan,15,0.0,25.0,0.45
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.801162330404128,20.0,Azerbaijan,15,0.0,25.0,0.45
+Pierre Gasly,Alpine,Mercedes,0.779107478521758,21.0,Azerbaijan,15,0.0,25.0,0.45
+Franco Colapinto,Alpine,Mercedes,0.7370170241234072,22.0,Azerbaijan,15,0.0,25.0,0.45
+Lando Norris,McLaren,Mercedes,1.01199203375768,1.0,Singapore,16,1.0,27.729166666666668,0.6
+Kimi Antonelli,Mercedes,Mercedes,0.9992041537468523,2.0,Singapore,16,1.0,27.729166666666668,0.6
+George Russell,Mercedes,Mercedes,0.9932701724069767,3.0,Singapore,16,1.0,27.729166666666668,0.6
+Lewis Hamilton,Ferrari,Ferrari,0.9899860832801134,4.0,Singapore,16,1.0,27.729166666666668,0.6
+Oscar Piastri,McLaren,Mercedes,0.979528065674189,5.0,Singapore,16,1.0,27.729166666666668,0.6
+Charles Leclerc,Ferrari,Ferrari,0.9760150558490044,6.0,Singapore,16,1.0,27.729166666666668,0.6
+Carlos Sainz,Williams,Mercedes,0.9491729191547769,7.0,Singapore,16,1.0,27.729166666666668,0.6
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.9469992401953109,8.0,Singapore,16,1.0,27.729166666666668,0.6
+Oliver Bearman,Haas,Ferrari,0.9390638995297801,9.0,Singapore,16,1.0,27.729166666666668,0.6
+Esteban Ocon,Haas,Ferrari,0.9351528941632428,10.0,Singapore,16,1.0,27.729166666666668,0.6
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.9336693984782479,11.0,Singapore,16,1.0,27.729166666666668,0.6
+Pierre Gasly,Alpine,Mercedes,0.9117601870657255,12.0,Singapore,16,1.0,27.729166666666668,0.6
+Fernando Alonso,Aston Martin,Honda,0.9077370710650385,13.0,Singapore,16,1.0,27.729166666666668,0.6
+Franco Colapinto,Alpine,Mercedes,0.9069989804619117,14.0,Singapore,16,1.0,27.729166666666668,0.6
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.9056418507839307,15.0,Singapore,16,1.0,27.729166666666668,0.6
+Lance Stroll,Aston Martin,Honda,0.885273540461975,16.0,Singapore,16,1.0,27.729166666666668,0.6
+Alex Albon,Williams,Mercedes,0.8816150357562335,17.0,Singapore,16,1.0,27.729166666666668,0.6
+Valtteri Bottas,Cadillac,Ferrari,0.8622134393721416,18.0,Singapore,16,1.0,27.729166666666668,0.6
+Nico Hulkenberg,Audi,Audi,0.8609065770630847,19.0,Singapore,16,1.0,27.729166666666668,0.6
+Sergio Perez,Cadillac,Ferrari,0.8601130540946823,20.0,Singapore,16,1.0,27.729166666666668,0.6
+Liam Lawson,Racing Bulls,Red Bull Ford,0.820162256781567,21.0,Singapore,16,1.0,27.729166666666668,0.6
+Gabriel Bortoleto,Audi,Audi,0.8169148346162589,22.0,Singapore,16,1.0,27.729166666666668,0.6
+Lewis Hamilton,Ferrari,Ferrari,1.0068243028758057,1.0,USA Austin,17,0.0,25.0,0.45
+George Russell,Mercedes,Mercedes,0.9757030283891414,2.0,USA Austin,17,0.0,25.0,0.45
+Kimi Antonelli,Mercedes,Mercedes,0.9637851715689638,3.0,USA Austin,17,0.0,25.0,0.45
+Charles Leclerc,Ferrari,Ferrari,0.9255912872772268,4.0,USA Austin,17,0.0,25.0,0.45
+Oliver Bearman,Haas,Ferrari,0.9206702312623286,5.0,USA Austin,17,0.0,25.0,0.45
+Lando Norris,McLaren,Mercedes,0.9132468803989164,6.0,USA Austin,17,0.0,25.0,0.45
+Gabriel Bortoleto,Audi,Audi,0.8876404051171131,7.0,USA Austin,17,0.0,25.0,0.45
+Nico Hulkenberg,Audi,Audi,0.8852914778868288,8.0,USA Austin,17,0.0,25.0,0.45
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8833636952420382,9.0,USA Austin,17,0.0,25.0,0.45
+Carlos Sainz,Williams,Mercedes,0.8820886448154079,10.0,USA Austin,17,0.0,25.0,0.45
+Esteban Ocon,Haas,Ferrari,0.8805113593347891,11.0,USA Austin,17,0.0,25.0,0.45
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8775408862725801,12.0,USA Austin,17,0.0,25.0,0.45
+Oscar Piastri,McLaren,Mercedes,0.874843737321092,13.0,USA Austin,17,0.0,25.0,0.45
+Alex Albon,Williams,Mercedes,0.8697289893689454,14.0,USA Austin,17,0.0,25.0,0.45
+Fernando Alonso,Aston Martin,Honda,0.8638335152052521,15.0,USA Austin,17,0.0,25.0,0.45
+Valtteri Bottas,Cadillac,Ferrari,0.8629395500756681,16.0,USA Austin,17,0.0,25.0,0.45
+Pierre Gasly,Alpine,Mercedes,0.8571474443186435,17.0,USA Austin,17,0.0,25.0,0.45
+Liam Lawson,Racing Bulls,Red Bull Ford,0.853702116294262,18.0,USA Austin,17,0.0,25.0,0.45
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8404033731964792,19.0,USA Austin,17,0.0,25.0,0.45
+Franco Colapinto,Alpine,Mercedes,0.8301833218452491,20.0,USA Austin,17,0.0,25.0,0.45
+Sergio Perez,Cadillac,Ferrari,0.8292085496526806,21.0,USA Austin,17,0.0,25.0,0.45
+Lance Stroll,Aston Martin,Honda,0.7848182971188098,22.0,USA Austin,17,0.0,25.0,0.45
+Kimi Antonelli,Mercedes,Mercedes,1.0443041099099994,1.0,Mexico,18,1.0,18.65,0.5
+George Russell,Mercedes,Mercedes,1.0301573505868897,2.0,Mexico,18,1.0,18.65,0.5
+Oscar Piastri,McLaren,Mercedes,1.0078942479460893,3.0,Mexico,18,1.0,18.65,0.5
+Lewis Hamilton,Ferrari,Ferrari,0.9753077385442034,4.0,Mexico,18,1.0,18.65,0.5
+Charles Leclerc,Ferrari,Ferrari,0.9743800291347491,5.0,Mexico,18,1.0,18.65,0.5
+Lando Norris,McLaren,Mercedes,0.9403465532286119,6.0,Mexico,18,1.0,18.65,0.5
+Oliver Bearman,Haas,Ferrari,0.9326144868267019,7.0,Mexico,18,1.0,18.65,0.5
+Carlos Sainz,Williams,Mercedes,0.9208963892905935,8.0,Mexico,18,1.0,18.65,0.5
+Alex Albon,Williams,Mercedes,0.9196393764326929,9.0,Mexico,18,1.0,18.65,0.5
+Pierre Gasly,Alpine,Mercedes,0.9158244527703382,10.0,Mexico,18,1.0,18.65,0.5
+Nico Hulkenberg,Audi,Audi,0.9085606065654661,11.0,Mexico,18,1.0,18.65,0.5
+Franco Colapinto,Alpine,Mercedes,0.9049990856736788,12.0,Mexico,18,1.0,18.65,0.5
+Liam Lawson,Racing Bulls,Red Bull Ford,0.9024035250727208,13.0,Mexico,18,1.0,18.65,0.5
+Gabriel Bortoleto,Audi,Audi,0.9017899054012347,14.0,Mexico,18,1.0,18.65,0.5
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.897542097716406,15.0,Mexico,18,1.0,18.65,0.5
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8920703060592622,16.0,Mexico,18,1.0,18.65,0.5
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8778784382012336,17.0,Mexico,18,1.0,18.65,0.5
+Valtteri Bottas,Cadillac,Ferrari,0.8490544458937501,18.0,Mexico,18,1.0,18.65,0.5
+Esteban Ocon,Haas,Ferrari,0.8444657811750496,19.0,Mexico,18,1.0,18.65,0.5
+Fernando Alonso,Aston Martin,Honda,0.8150333777815413,20.0,Mexico,18,1.0,18.65,0.5
+Sergio Perez,Cadillac,Ferrari,0.8081887490174153,21.0,Mexico,18,1.0,18.65,0.5
+Lance Stroll,Aston Martin,Honda,0.7956193589555814,22.0,Mexico,18,1.0,18.65,0.5
+Charles Leclerc,Ferrari,Ferrari,1.0140555974055345,1.0,Brazil,19,0.0,15.891666666666666,0.75
+Kimi Antonelli,Mercedes,Mercedes,0.9820029243775686,2.0,Brazil,19,0.0,15.891666666666666,0.75
+George Russell,Mercedes,Mercedes,0.9811577754075906,3.0,Brazil,19,0.0,15.891666666666666,0.75
+Lewis Hamilton,Ferrari,Ferrari,0.9458860099735598,4.0,Brazil,19,0.0,15.891666666666666,0.75
+Lando Norris,McLaren,Mercedes,0.9337080066774118,5.0,Brazil,19,0.0,15.891666666666666,0.75
+Oliver Bearman,Haas,Ferrari,0.9295568266213775,6.0,Brazil,19,0.0,15.891666666666666,0.75
+Oscar Piastri,McLaren,Mercedes,0.9253821046604302,7.0,Brazil,19,0.0,15.891666666666666,0.75
+Alex Albon,Williams,Mercedes,0.9159065116663416,8.0,Brazil,19,0.0,15.891666666666666,0.75
+Esteban Ocon,Haas,Ferrari,0.9129157832445387,9.0,Brazil,19,0.0,15.891666666666666,0.75
+Pierre Gasly,Alpine,Mercedes,0.9057885572802347,10.0,Brazil,19,0.0,15.891666666666666,0.75
+Franco Colapinto,Alpine,Mercedes,0.9053405403523956,11.0,Brazil,19,0.0,15.891666666666666,0.75
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8844621726902299,12.0,Brazil,19,0.0,15.891666666666666,0.75
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8810993315321256,13.0,Brazil,19,0.0,15.891666666666666,0.75
+Sergio Perez,Cadillac,Ferrari,0.8732306361431648,14.0,Brazil,19,0.0,15.891666666666666,0.75
+Gabriel Bortoleto,Audi,Audi,0.8701472715260428,15.0,Brazil,19,0.0,15.891666666666666,0.75
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8694415499337859,16.0,Brazil,19,0.0,15.891666666666666,0.75
+Valtteri Bottas,Cadillac,Ferrari,0.858016066152554,17.0,Brazil,19,0.0,15.891666666666666,0.75
+Fernando Alonso,Aston Martin,Honda,0.8560493420310971,18.0,Brazil,19,0.0,15.891666666666666,0.75
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8383657628302559,19.0,Brazil,19,0.0,15.891666666666666,0.75
+Carlos Sainz,Williams,Mercedes,0.8367082284198823,20.0,Brazil,19,0.0,15.891666666666666,0.75
+Nico Hulkenberg,Audi,Audi,0.82710084996353,21.0,Brazil,19,0.0,15.891666666666666,0.75
+Lance Stroll,Aston Martin,Honda,0.7895820147096777,22.0,Brazil,19,0.0,15.891666666666666,0.75
+Charles Leclerc,Ferrari,Ferrari,0.9776789925791316,1.0,Las Vegas,20,0.0,34.5875,0.25
+George Russell,Mercedes,Mercedes,0.9649182352462424,2.0,Las Vegas,20,0.0,34.5875,0.25
+Kimi Antonelli,Mercedes,Mercedes,0.9296597885151425,3.0,Las Vegas,20,0.0,34.5875,0.25
+Oscar Piastri,McLaren,Mercedes,0.9151408493681883,4.0,Las Vegas,20,0.0,34.5875,0.25
+Lewis Hamilton,Ferrari,Ferrari,0.9044334567121355,5.0,Las Vegas,20,0.0,34.5875,0.25
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.901507506907655,6.0,Las Vegas,20,0.0,34.5875,0.25
+Lando Norris,McLaren,Mercedes,0.8895189289426383,7.0,Las Vegas,20,0.0,34.5875,0.25
+Sergio Perez,Cadillac,Ferrari,0.8824437299307094,8.0,Las Vegas,20,0.0,34.5875,0.25
+Valtteri Bottas,Cadillac,Ferrari,0.8821696679095975,9.0,Las Vegas,20,0.0,34.5875,0.25
+Oliver Bearman,Haas,Ferrari,0.8781328851149244,10.0,Las Vegas,20,0.0,34.5875,0.25
+Esteban Ocon,Haas,Ferrari,0.8716017190841064,11.0,Las Vegas,20,0.0,34.5875,0.25
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8704200530934265,12.0,Las Vegas,20,0.0,34.5875,0.25
+Nico Hulkenberg,Audi,Audi,0.853372174661539,13.0,Las Vegas,20,0.0,34.5875,0.25
+Pierre Gasly,Alpine,Mercedes,0.8525896778038893,14.0,Las Vegas,20,0.0,34.5875,0.25
+Fernando Alonso,Aston Martin,Honda,0.8375778262258621,15.0,Las Vegas,20,0.0,34.5875,0.25
+Alex Albon,Williams,Mercedes,0.8288770813381366,16.0,Las Vegas,20,0.0,34.5875,0.25
+Carlos Sainz,Williams,Mercedes,0.8254905920439276,17.0,Las Vegas,20,0.0,34.5875,0.25
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.823491484442833,18.0,Las Vegas,20,0.0,34.5875,0.25
+Franco Colapinto,Alpine,Mercedes,0.8160777146783403,19.0,Las Vegas,20,0.0,34.5875,0.25
+Gabriel Bortoleto,Audi,Audi,0.8148046370257168,20.0,Las Vegas,20,0.0,34.5875,0.25
+Lance Stroll,Aston Martin,Honda,0.7907301015556378,21.0,Las Vegas,20,0.0,34.5875,0.25
+Liam Lawson,Racing Bulls,Red Bull Ford,0.786522731906322,22.0,Las Vegas,20,0.0,34.5875,0.25
+George Russell,Mercedes,Mercedes,1.0178363845115306,1.0,Qatar,21,0.0,36.97083333333333,0.2
+Lewis Hamilton,Ferrari,Ferrari,0.9663658641816921,2.0,Qatar,21,0.0,36.97083333333333,0.2
+Kimi Antonelli,Mercedes,Mercedes,0.9641277430069047,3.0,Qatar,21,0.0,36.97083333333333,0.2
+Charles Leclerc,Ferrari,Ferrari,0.9584949767532503,4.0,Qatar,21,0.0,36.97083333333333,0.2
+Oscar Piastri,McLaren,Mercedes,0.954350912421643,5.0,Qatar,21,0.0,36.97083333333333,0.2
+Lando Norris,McLaren,Mercedes,0.9326889081167969,6.0,Qatar,21,0.0,36.97083333333333,0.2
+Pierre Gasly,Alpine,Mercedes,0.903176986391802,7.0,Qatar,21,0.0,36.97083333333333,0.2
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8922456967143783,8.0,Qatar,21,0.0,36.97083333333333,0.2
+Alex Albon,Williams,Mercedes,0.8913588040055289,9.0,Qatar,21,0.0,36.97083333333333,0.2
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8881212496212316,10.0,Qatar,21,0.0,36.97083333333333,0.2
+Gabriel Bortoleto,Audi,Audi,0.8812175789297481,11.0,Qatar,21,0.0,36.97083333333333,0.2
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.87089425773296,12.0,Qatar,21,0.0,36.97083333333333,0.2
+Oliver Bearman,Haas,Ferrari,0.8664846954871395,13.0,Qatar,21,0.0,36.97083333333333,0.2
+Franco Colapinto,Alpine,Mercedes,0.8585180590664359,14.0,Qatar,21,0.0,36.97083333333333,0.2
+Carlos Sainz,Williams,Mercedes,0.8503025807930714,15.0,Qatar,21,0.0,36.97083333333333,0.2
+Nico Hulkenberg,Audi,Audi,0.8475697373639933,16.0,Qatar,21,0.0,36.97083333333333,0.2
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.8393376270542552,17.0,Qatar,21,0.0,36.97083333333333,0.2
+Esteban Ocon,Haas,Ferrari,0.8359708034867481,18.0,Qatar,21,0.0,36.97083333333333,0.2
+Fernando Alonso,Aston Martin,Honda,0.8073698939353356,19.0,Qatar,21,0.0,36.97083333333333,0.2
+Sergio Perez,Cadillac,Ferrari,0.8065555002111212,20.0,Qatar,21,0.0,36.97083333333333,0.2
+Valtteri Bottas,Cadillac,Ferrari,0.7992655073377605,21.0,Qatar,21,0.0,36.97083333333333,0.2
+Lance Stroll,Aston Martin,Honda,0.7485118360447814,22.0,Qatar,21,0.0,36.97083333333333,0.2
+George Russell,Mercedes,Mercedes,0.991797371721165,1.0,Abu Dhabi,22,0.0,34.1375,0.2
+Oscar Piastri,McLaren,Mercedes,0.9765225718712495,2.0,Abu Dhabi,22,0.0,34.1375,0.2
+Kimi Antonelli,Mercedes,Mercedes,0.9583253734485265,3.0,Abu Dhabi,22,0.0,34.1375,0.2
+Lewis Hamilton,Ferrari,Ferrari,0.9523926798053913,4.0,Abu Dhabi,22,0.0,34.1375,0.2
+Lando Norris,McLaren,Mercedes,0.9519830338899152,5.0,Abu Dhabi,22,0.0,34.1375,0.2
+Charles Leclerc,Ferrari,Ferrari,0.9301874151044274,6.0,Abu Dhabi,22,0.0,34.1375,0.2
+Arvid Lindblad,Racing Bulls,Red Bull Ford,0.9009586912755033,7.0,Abu Dhabi,22,0.0,34.1375,0.2
+Isak Hadjar,Red Bull Racing,Red Bull Ford,0.8998023014432112,8.0,Abu Dhabi,22,0.0,34.1375,0.2
+Oliver Bearman,Haas,Ferrari,0.8981419029882037,9.0,Abu Dhabi,22,0.0,34.1375,0.2
+Franco Colapinto,Alpine,Mercedes,0.8931742645624281,10.0,Abu Dhabi,22,0.0,34.1375,0.2
+Gabriel Bortoleto,Audi,Audi,0.8907181982014173,11.0,Abu Dhabi,22,0.0,34.1375,0.2
+Esteban Ocon,Haas,Ferrari,0.8858919499325734,12.0,Abu Dhabi,22,0.0,34.1375,0.2
+Pierre Gasly,Alpine,Mercedes,0.8858665472176992,13.0,Abu Dhabi,22,0.0,34.1375,0.2
+Max Verstappen,Red Bull Racing,Red Bull Ford,0.8824501524712421,14.0,Abu Dhabi,22,0.0,34.1375,0.2
+Nico Hulkenberg,Audi,Audi,0.8753479016249693,15.0,Abu Dhabi,22,0.0,34.1375,0.2
+Carlos Sainz,Williams,Mercedes,0.8740533902800764,16.0,Abu Dhabi,22,0.0,34.1375,0.2
+Alex Albon,Williams,Mercedes,0.863224794422777,17.0,Abu Dhabi,22,0.0,34.1375,0.2
+Liam Lawson,Racing Bulls,Red Bull Ford,0.8238604619031066,18.0,Abu Dhabi,22,0.0,34.1375,0.2
+Sergio Perez,Cadillac,Ferrari,0.7958138525035225,19.0,Abu Dhabi,22,0.0,34.1375,0.2
+Fernando Alonso,Aston Martin,Honda,0.7955729637316106,20.0,Abu Dhabi,22,0.0,34.1375,0.2
+Valtteri Bottas,Cadillac,Ferrari,0.775888943188429,21.0,Abu Dhabi,22,0.0,34.1375,0.2
+Lance Stroll,Aston Martin,Honda,0.7398292795231408,22.0,Abu Dhabi,22,0.0,34.1375,0.2
